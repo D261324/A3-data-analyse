@@ -1,0 +1,1000 @@
+Adres;PC;Huisnummer;Toevoeging;Wijk;Aannemer;Contactpersoon;Datum_aanvraag;Soort;nb_hoogte
+Spijkerstraat;2416 TR;59;;Watervogelbuurt;Eshuis & Zn Aannemersbedrijf Fa J;A. Hoekstra;19/08/2018;Schuur;28,8
+Stationsplein;2427 CG;74;C;Lunetten-Noord;Bouwmaatschappij Kroon B.V.;K. van den Velden;21/10/2018;Nieuwbouw;6,4
+Elimos. V. Oud Munst.;1897 XA;77;A;Buurtnaam;Rolvink Bouw B.V.;D. de Boer;07/08/2017;Verwijderen stal;22,4
+Antoniestraat;8831 CB;87;;Geuzenwijk;Akerbouw Aannemersbedrijf B.V.;N. de Bruyn;24/07/2019;Nieuwbouw;28,8
+Rijndijk;2621 DB;113;;Ondiep;Gils Bouwservice en Onderhoud B.V.;W. Willems;04/12/2015;Aanbouw;25,6
+Imhoffstraat (van);2720 EX;128;;Terwijde;Eventus Bouw Aannemersbedrijf;R. van der Velde;14/01/2015;Verwijderen stal;32
+Goedestraat;8626 GS;113;;Dichterswijk;Bouwbedrijf Geers B.V.;F. de Bruyn;18/05/2018;Aanbouw;9,6
+Haverstraat;5871 EK;144;;Zuilen-Noord;Derksen Stukadoors;T. Willemsen;03/06/2019;Verwijderen stal;38,4
+Domtrans;5404 LK;76;C;Tuindorp-Oost;Hoek Bouw - 0800AANBOUW.nl;G. Verhoeven;15/10/2015;Verwijderen stal;25,6
+Agnietenstraat;9673 TX;110;;Lunetten-Zuid;Bouwbedrijf Boot B.V.;B. Vermeulen;28/01/2015;Boomkap;35,2
+Bekkerstraat;8689 BZ;27;;Schildersbuurt;Hofstra Hulshof Bouw B.V.;Q. Willemsen;14/04/2019;Schuur;32
+Groeneweg;4553 DJ;62;D;Tuinwijk-West;Bouwbedrijf A J van Hilst B.V.;N. Molenaar;19/08/2018;Nieuwbouw;12,8
+Jacobskerksteeg;8751 GW;146;D;Bloemenbuurt;vd Meer Bouwbedrijf P J;V. Schipper;07/01/2020;Schuur;22,4
+Otterstraat;9384 EB;116;;Lombok-West;Vromans Kozijnen B.V.;W. Smit;19/08/2018;Verwijderen stal;12,8
+Kovelaarsdijk;7506 NV;136;A;Lunetten-Noord;Jan Oosterhout Aannemersbedrijf B.V.;T. Bosman;06/12/2015;Gevelrenovatie;22,4
+Kievitstraat;9063 LY;109;;Zuilen-Noord;Marku Bouw B.V.;E. van de Velden;10/01/2017;Boomkap;22,4
+Asterstraat;1363 KL;37;D;Lombok-West;Halman Bouwbedrijf;R. van de Ven;04/03/2018;Gevelrenovatie;6,4
+Kleine Tuinstraat;1596 WB;76;;Tweede Daalsebuurt en omgeving;Bruil Bouwbedrijf Ede B.V.;U. van Loon;15/03/2017;Aanbouw;25,6
+Vinkenbuurt;1294 IB;130;;Oud Hoograven;Bouwbedrijf Hissel;M. de Graaf;13/10/2019;Stal;38,4
+Duifstraat;7283 ML;4;;Bloemenbuurt;Akerbouw Aannemersbedrijf B.V.;X. de Graaf;10/08/2018;Aanbouw;16
+Veldstraat;9226 LK;53;;Langerak;van Leur Groep Utrecht;A. de Groot;22/02/2015;Stal;16
+Mariastraat;3815 DQ;57;;Lombok-West;Florijn & Zn Fa A;M. Bos;30/11/2018;Dakkapel;25,6
+Brugsteeg;3458 TX;90;;Bedrijventerrein Lageweide;Dura Vermeer Bouw Ede B.V.;U. Timmermans;24/05/2015;Verwijderen stal;9,6
+Grutterspoort;6250 PI;3;;Bedrijvengebied Overvecht;Aanpak Bouwservice;O. van den Berg;19/04/2016;Dakkapel;9,6
+Lucas Bolwerk;6192 YD;89;;Dichterswijk;Reimerswaal Aannemingsbedrijf;G. van Beek;05/04/2018;Verwijderen stal;16
+Merwedekade;3674 LB;25;D;Tweede Daalsebuurt en omgeving;Bergwerf Bouw- en Aannemingsbedrijf;F. van der Laan;22/12/2018;Schuur;12,8
+Begijnehof;2962 BN;107;;Sterrenwijk;De Wit-Besseling B.V.;P. Hermans;07/06/2015;Verwijderen stal;19,2
+Kroonstraat;4842 SN;51;;Dichterswijk;KEMO Vochtwering;V. Bakker;09/06/2020;Boomkap;12,8
+Kruisweg;5335 UI;44;;Schildersbuurt;Voeg en Renovatiebedrijf MG;K. van Dijk;31/03/2016;Boomkap;6,4
+Schaapstraat;8619 CM;34;;Dichterswijk;Hemmen Bouw C.V.;B. van der Heijden;04/04/2019;Boomkap;38,4
+Jansteeg;1651 GE;92;;Tuinwijk-Oost;van Dijk Aannemersbedrijf;X. van Dam;28/03/2018;Gevelrenovatie;38,4
+Korte Viestraat;5570 OK;2;D;Tuinwijk-Oost;Lankveld Bouwbedrijf;G. Hermans;07/12/2017;Aanbouw;12,8
+Schoolstraat;2361 JJ;116;B;Geuzenwijk;Aannemersbedrijf J.W van Tunen;J. van de Ven;28/02/2018;Aanbouw;35,2
+Kleine Singel;6818 VN;49;A;Kanaleneiland-Zuid;Rietdekkersbedrijf Van Ginkel;X. van den Brink;17/10/2018;Gevelrenovatie;6,4
+Korte Nieuwstraat;4012 JR;83;;Kanaleneiland-Noord;Aannemingsbedrijf J vd Windt B.V.;W. Sanders;23/06/2016;Verwijderen stal;19,2
+Grutterspoort;3002 GQ;81;;Lombok-West;Obdeijn B.V.;T. Smits;04/08/2015;Schuur;22,4
+Zakkendragersteeg;3966 HJ;57;;Pijlsweerd-Zuid;Geveke Bouw B.V.;H. van Dam;17/01/2016;Aanbouw;32
+Lange Jansstraat;2009 MF;34;;Transwijk-Zuid;A-HA;A. Sanders;12/02/2016;Gevelrenovatie;12,8
+Vlasstraat;9205 WJ;22;B;Hogeweide;Aannemersbedrijf R Boekhoorn B.V.;X. Dijkstra;06/10/2019;Aanbouw;16
+Zilversteeg;4654 FH;67;B;Nieuw Hoograven;Aannemingsbedrijf Blokland;Z. van der Velde;20/02/2017;Aanbouw;12,8
+Jachtstraat;9764 DJ;79;A;Bedrijventerrein Lageweide;Bouwbedrijf Wijlens B.V.;C. van der Velden;29/07/2018;Stal;6,4
+Kalverstraat;3110 CZ;147;;Transwijk-Noord;Bouwbedrijf Verbruggen Zijtaart B.V.;Q. Vink;26/07/2017;Stal;25,6
+Vlasstraat;8499 VJ;78;;Lombok-West;DSL Support Aannemingsbedrijf BV;G. van der Ven;09/11/2017;Schuur;38,4
+Begijnesteeg 1e;6365 BO;35;;Staatsliedenbuurt;Bouwbedrijf Lok;E. de Jonge;20/11/2015;Gevelrenovatie;6,4
+Houtensche pad;4397 EE;140;;Sterrenwijk;Kroon VOF Aannemersbedrijf;N. Driessen;16/09/2019;Dakkapel;12,8
+Kolfstraat;2950 ZX;133;;Oudwijk;B.A.B.S. afbouw;M. van der Horst;17/09/2017;Stal;22,4
+Knipstraat;1510 YN;139;;Pijlsweerd-Zuid;Van Ampting Bouwprojecten B.V.;D. Kuipers;17/03/2020;Dakkapel;35,2
+Geertestraat;4109 KS;77;C;Rivierenwijk;BOV Aannemingsbedrijf;W. Dijkstra;17/05/2020;Gevelrenovatie;25,6
+Zoutmarkt;3918 MB;139;;Terwijde;Smidt Bouwbedrijf;U. van der Wal;16/11/2016;Gevelrenovatie;16
+Grutterssteeg;6290 PX;138;C;Vogelenbuurt;Acs Onderhoud;F. de Haan;06/12/2017;Schuur;22,4
+Brouwerstraat;6456 YK;12;;Papendorp;Technisch Onderhoudsbedrijf Stegenga;B. de Graaf;29/04/2018;Aanbouw;9,6
+Walsteeg;2803 KQ;15;;Tuinwijk-West;Bouwbedrijf Gebr. van Dorland;R. Janssen;26/05/2017;Nieuwbouw;38,4
+Korte Minrebroederstraat;1061 ZY;104;;Lombok-West;Aannemersbedrijf Jonker;I. van der Wal;26/09/2016;Schuur;9,6
+Weerdsingel W.Z.;7744 CD;136;;Staatsliedenbuurt;Vébé Bouw B.V.;X. Jacobs;01/01/2018;Aanbouw;19,2
+Vinkenbuurt;5996 HB;90;C;Vogelenbuurt;Cladding Partners B.V.;X. Postma;21/07/2017;Gevelrenovatie;28,8
+Kleine Lijnpad 1e;5957 EP;64;;Lunetten-Noord;Duijndam B.V.;Z. Brouwer;24/01/2016;Boomkap;22,4
+Jansdam;5819 EU;144;;Lunetten-Noord;Presolid Home B.V.;J. Koster;28/03/2016;Gevelrenovatie;35,2
+Achter Clarenburg;2151 ZC;1;D;Bloemenbuurt;Schnieders J;B. Peters;12/01/2017;Boomkap;28,8
+Bankastraat;1737 XT;35;B;Kanaleneiland-Zuid;Tijdhof-Hobema aannemers bv;P. Dijkstra;10/07/2018;Stal;6,4
+Frederik Hendrikstraat;8421 PX;27;;Langerak;Bouwbedrijf Th. van Weert b.v.;Q. Visser;18/11/2019;Stal;28,8
+Baanstraat;8387 TF;28;;Strijkviertel;Van der Vaart Bouw;D. Boer;26/06/2017;Aanbouw;6,4
+Jan Pietersz. Koenstraat;9801 UO;150;C;Rivierenwijk;Niehof J B;O. Peters;05/08/2019;Gevelrenovatie;6,4
+Biltstraat;8132 WK;53;D;Schildersbuurt;REBBouw;R. Mulder;14/10/2016;Nieuwbouw;16
+Koningstraat;3975 LQ;54;;Papendorp;Constructiebedrijf Broecks BV;U. de Boer;12/04/2016;Nieuwbouw;19,2
+Knollensteeg;4937 EY;79;;Kanaleneiland-Zuid;Rietveld B.V.;G. Jonker;12/05/2019;Dakkapel;19,2
+Kanonstraat;8030 QA;27;A;Pijlsweerd-Zuid;Geldof Zeeuwsch-Vlaanderen B.V.;G. Visser;17/03/2019;Nieuwbouw;25,6
+Lamstraat;3312 WU;86;;Bokkenbuurt;FixEnjoy Bouw B.V.;R. de Graaf;31/05/2019;Boomkap;6,4
+Leistraat;8696 VO;23;B;Lunetten-Zuid;Bouwbedrijf Terluin B.V.;U. van der Ven;18/12/2019;Gevelrenovatie;16
+Mulderstraat;3608 OM;66;;Transwijk-Noord;Aannemingsbedrijf De Wit Drunen B.V.;O. Postma;04/01/2019;Stal;38,4
+Tuinstraat;5878 XM;29;;Strijkviertel;Van Ampting Bouwprojecten B.V.;W. Timmermans;16/08/2019;Boomkap;22,4
+Annastraat;2392 SR;36;;Bloemenbuurt;Bijlbouw B.V.;W. van der Veen;09/08/2017;Dakkapel;16
+Jachtstraat;8773 VS;80;;Tuinwijk-Oost;Gerard Heij Bouw en Timmerbedrijf;M. van de Velden;02/01/2017;Boomkap;38,4
+Leidsche Weg;1416 ED;62;;Transwijk-Noord;Aannemingsbedrijf Draisma B.V.;O. van Dam;20/07/2019;Aanbouw;6,4
+Kanaalstraat;8166 FS;127;D;Rivierenwijk;Vromans Kozijnen B.V.;M. Kuijpers;19/06/2019;Aanbouw;12,8
+Moreelsepark;5133 GK;93;;Geuzenwijk;Hecon Bouwgroep;F. van der Laan;18/12/2017;Nieuwbouw;25,6
+Weteringstraat;2118 BA;98;C;Ondiep;Verwey Bouw- en Handelsbedrijf;I. van de Berg;05/12/2017;Schuur;32
+Vosstraat;3309 VD;116;C;Langerak;AsenaBouw Amsterdam;N. van den Pol;07/04/2017;Dakkapel;38,4
+Spijkerstraat;5118 UD;100;D;Papendorp;Bouwbedrijf G.M. van Rooij B.V.;X. van der Heyden;17/01/2015;Boomkap;32
+Costa, Da kade;2460 EZ;96;;Lunetten-Zuid;E de Boer & Zn Aannemersbedrijf B.V.;X. Dijkstra;25/04/2016;Verwijderen stal;28,8
+Kr. Elleboogsteeg;3505 XG;41;;Sterrenwijk;PHB Deventer B.V.;P. Kramer;08/09/2019;Nieuwbouw;12,8
+Griftstraat;2691 ZE;135;;Buurtnaam;Poel Bouwbedrijf;V. Mol;19/12/2018;Gevelrenovatie;38,4
+Oudwijkerveldstraat;6403 AW;73;;Bloemenbuurt;Frebouw Bouw- & Onderhoudsbedrijf;N. Vink;08/07/2018;Gevelrenovatie;16
+Kollewijsteeg;8839 GQ;69;;Oudwijk;Thalen Bouwbedrijf;I. van der Horst;25/01/2016;Boomkap;35,2
+Jacobsplein;8427 PU;73;;Bedrijventerrein Lageweide;Enschede Bouwbedrijf;R. Prins;09/03/2015;Gevelrenovatie;9,6
+Paardenveld;5262 CP;71;;Tuinwijk-West;Haex Brankaert Aannemersbedrijf B.V.;N. van Wijk;28/09/2015;Gevelrenovatie;25,6
+Ooftstraat;8095 EQ;15;A;Tuinwijk-Oost;Bouwbedrijf J. van Dijk B.V.;F. van de Wal;08/01/2015;Schuur;35,2
+M.A. de Ruijterstraat;5284 ZQ;134;;Nieuw Hoograven;van Dongen Bouwbedrijf A D R;T. Blom;22/04/2016;Dakkapel;25,6
+Vossegatschedijk;9203 ZR;46;;Langerak;vd Zwaan VOF Aannemersbedrijf;U. van den Brink;20/11/2015;Gevelrenovatie;19,2
+Dillenburgstraat;4030 TA;10;;Bedrijventerrein Lageweide;Lieftink Geveltechniek BV;Z. Koning;04/10/2018;Stal;38,4
+Choorstraat;8104 YQ;38;;Terwijde;ELBERSE BOUWBEDRIJF B.V.;L. van der Ven;10/03/2020;Schuur;35,2
+Stadhouderslaan;7172 HU;51;;Pijlsweerd-Noord;Kessels Aannemersbedrijf;Y. de Ruiter;26/10/2015;Dakkapel;19,2
+Laan van Croes;2693 RH;114;A;Bloemenbuurt;Aannemingsbedrijf J vd Windt B.V.;I. van der Heijden;13/08/2017;Schuur;35,2
+Hovenstraat;5055 PD;150;C;Kanaleneiland-Zuid;Norbert Schwarte Bau B.V.;M. Martens;05/05/2019;Gevelrenovatie;35,2
+Badstraat;9199 VF;61;;Hogeweide;Aannemersbedrijf Beverbouw BV;P. Hermans;17/08/2015;Dakkapel;22,4
+Waterpoort;1704 QI;30;;Nieuw Hoograven;Dalwin Bouw;K. van de Velden;15/10/2016;Gevelrenovatie;25,6
+Servaaspark;9921 TL;99;;Bloemenbuurt;Hoogstraten Wegenbouw B.V.;B. Peters;16/04/2019;Nieuwbouw;9,6
+Pieter Bothstraat;5753 ZJ;80;C;Nieuw Hoograven;Aannemingsbedrijfvisser;A. van de Ven;19/01/2020;Nieuwbouw;38,4
+Brouwerstraat;9086 QE;75;;Dichterswijk;Kranenbarg Aannemersbedrijf G;Q. van de Ven;17/10/2019;Stal;28,8
+Biltstraat;6768 OD;60;;Terwijde;Spee Aannemingsbedrijf B.V.;I. van den Pol;17/11/2018;Dakkapel;35,2
+Vischmarkt;5082 II;146;;Nieuw Hoograven;Bouw en Ontwikkeling du Prie B.V.;O. Koning;29/02/2016;Dakkapel;25,6
+Kerksteeg;6673 KB;22;;Lunetten-Noord;Composiet Prefab Bouw;K. Boer;07/10/2018;Stal;35,2
+Merwedekade;6745 DU;53;;Nieuw Hoograven;Aannemersbedrijf Gebr. van Breda BV;Z. Mulder;19/02/2019;Boomkap;32
+Jachtstraat;1619 TC;14;D;Strijkviertel;Geldof Zeeuwsch-Vlaanderen B.V.;F. Dekker;09/10/2017;Dakkapel;9,6
+Riouwstraat;6213 HK;148;;Tuindorp-Oost;vd Engel Aannemingsbedrijf H A;K. de Lange;23/03/2017;Schuur;22,4
+Kwakkeldijk;1229 QQ;81;D;Hogeweide;Kootstra-vd Veen VOF;Q. van de Veen;17/05/2020;Aanbouw;19,2
+Bokstraat;5630 FE;90;C;Tuinwijk-West;Bouwbedrijf Zaanland;L. Sanders;17/02/2016;Verwijderen stal;19,2
+Lindestraat;7350 HP;112;;Nieuw Hoograven;MIEDEMAbouw;V. Jonker;24/05/2017;Gevelrenovatie;6,4
+Badstraat;7364 XX;132;;Bedrijvengebied Overvecht;Aannemingsbedrijf R Middelkoop B.V.;U. Kuypers;07/03/2015;Verwijderen stal;12,8
+Hoogelanden WZ;6021 MU;122;B;Tuindorp-Oost;Schipper&Paaimans Bouwgroep;D. van der Pol;20/11/2016;Aanbouw;9,6
+Landstraat;5623 CV;84;D;Lombok-Oost;Bouwbedrijf Pinkert B.V.;R. van Wijk;27/04/2015;Gevelrenovatie;6,4
+Elijnshof;1065 UL;27;;Kanaleneiland-Zuid;Spee Aannemingsbedrijf B.V.;H. Schipper;07/01/2020;Boomkap;28,8
+Bladstraat;4996 JS;142;;Langerak;ptc-opleidingen;U. van der Linden;08/03/2020;Schuur;12,8
+Cellebroederstraat;4991 LN;63;;Sterrenwijk;Aannemingsbedrijf De Wit Drunen B.V.;V. Mulder;28/08/2019;Schuur;16
+Loefbergmakerstraat;9747 UA;107;;Bloemenbuurt;BMU Groep Bouw & Onderhoud;G. Kuipers;04/06/2019;Verwijderen stal;28,8
+Eloyensteeg;2332 VX;5;D;Tuinwijk-West;Aannemersbedrijf VDS;J. van Leeuwen;06/06/2020;Boomkap;38,4
+Hamburgerstraat;6506 IL;84;;Bedrijventerrein Lageweide;Kessels Aannemersbedrijf;I. van Beek;21/12/2017;Nieuwbouw;22,4
+Groote Eligensteeg;1662 GQ;146;D;Tuindorp-Oost;Scheerder Bouwbedrijf B.V.;O. van den Velde;27/09/2017;Aanbouw;28,8
+Protestantenhofje;4640 GL;55;;Strijkviertel;Bouwbedrijf van Grootheest B.V.;P. Scholten;26/10/2015;Verwijderen stal;22,4
+Koningsweg;9754 PS;49;;Oud Hoograven;v.o.f.jh. pulles en zn.;Y. van de Meer;17/02/2018;Boomkap;6,4
+Oudwijkerveldstraat;3261 DT;40;A;Bokkenbuurt;Fokker-Oomen B.V.;F. de Vos;08/01/2019;Stal;28,8
+Magdalenastraat;1560 AL;70;;Tuinwijk-West;Timmerbedrijf Poortinga;C. van der Veen;05/10/2018;Gevelrenovatie;35,2
+Putsteeg;5175 BD;134;;Tuinwijk-West;Waal Timmer- en Aannemersbedrijf;O. Bosman;05/06/2020;Schuur;28,8
+Kroonstraat;2770 UF;29;;Buurtnaam;Lamers Bouw;Z. de Vries;21/01/2015;Nieuwbouw;9,6
+Roggestraat;8562 LF;57;D;Buurtnaam;Graveland & Molenaar Bouw B.V.;Y. de Ruiter;12/05/2020;Stal;9,6
+Hennipstraat;7210 IP;107;;Schildersbuurt;Bouwbedrijf Been;U. van den Brink;17/02/2019;Dakkapel;38,4
+Otterstraat;7924 LS;49;A;Transwijk-Noord;Allround Bouw Service ;U. Hofman;26/11/2015;Nieuwbouw;25,6
+Admir. Van Ghentstraat;3211 RH;61;;Tweede Daalsebuurt en omgeving;Reins Bouwbedrijf B.V.;R. Mulder;22/01/2016;Schuur;19,2
+Lanceepoort;2774 MO;26;C;Bokkenbuurt;GEBR THIJSSEN B.V.;S. de Boer;12/03/2016;Schuur;19,2
+Joh. Willem Frisostraat;3231 TU;91;;Pijlsweerd-Noord;Aannemersbedrijf Vogt B.V.;G. van Beek;08/09/2016;Stal;35,2
+Ekerenspoort;2873 CE;112;A;Transwijk-Zuid;Aannemingsbedrijf Van Driel B.V.;O. van den Berg;21/07/2017;Schuur;9,6
+Korte Jansstraat;4487 RR;48;A;Pijlsweerd-Noord;Aannemersbedrijf Schasfoort B.V.;C. van den Broek;06/02/2015;Stal;25,6
+Costa, Da kade;4953 HS;128;B;Hogeweide;Bouwbedrijf Groen B.V.;F. van de Berg;28/03/2020;Schuur;38,4
+Haverland;4270 LM;47;B;Zuilen-Noord;Welling Bouw Breda B.V.;T. Bakker;10/05/2017;Stal;22,4
+Minutensteeg;1996 SS;41;;Schildersbuurt;Tadema Bouwbedrijf B.V.;C. Smeets;02/02/2015;Verwijderen stal;28,8
+Mauritsstraat;1044 OT;103;;Lombok-West;Proper Aannemersbedrijf B.V.;U. de Bruijn;18/05/2016;Dakkapel;19,2
+Schutstraat;6271 GB;12;;Tweede Daalsebuurt en omgeving;Bouwbedrijf Barten B.V.;B. Hendriks;11/05/2020;Schuur;35,2
+Oorsprongpark;7009 YK;28;;Nieuw Hoograven;Bouw- en Onderhoudsbedrijf A. van Dijk;M. Dekker;16/04/2016;Verwijderen stal;28,8
+Wagenstraat;4526 ZS;22;A;Tweede Daalsebuurt en omgeving;Bouwbedrijf Cornel B.V.;L. van der Berg;22/05/2018;Dakkapel;12,8
+Vrouwjuttenstraat;8638 EQ;29;;Tuinwijk-West;Oude Moleman Aannemersbedrijf;Z. Kuiper;12/11/2016;Verwijderen stal;12,8
+Kindgenshaven;2101 IT;145;;Sterrenwijk;Bot Bouw;S. van de Velde;24/06/2018;Verwijderen stal;6,4
+hazelaarstraat;2504 OC;30;;Tuindorp-Oost;WSM Bouw B.V.;H. Martens;03/02/2020;Dakkapel;38,4
+Bekkerstraat;2868 CR;37;D;Bedrijventerrein Lageweide;Bouwbedrijf Been;N. Gerritsen;24/11/2016;Boomkap;12,8
+Emmalaan;3439 VS;9;;Pijlsweerd-Zuid;Aannemersbedrijf R Boekhoorn B.V.;C. van der Meer;04/05/2019;Schuur;22,4
+Driesprong;7724 TS;110;;Nieuw Hoograven;Webosa Bouw;R. van de Pol;21/05/2016;Nieuwbouw;38,4
+Tolsteegsingel W.Z.;5370 ET;94;;Schildersbuurt;Bouwbedrijf H.Bouwers;Y. van den Heuvel;21/05/2020;Boomkap;25,6
+Achterstraat 3e;2845 QV;30;;Tweede Daalsebuurt en omgeving;Hoek Bouw - 0800AANBOUW.nl;I. Hendriks;31/05/2018;Boomkap;28,8
+Weidesteeg;8941 MX;21;A;Watervogelbuurt;Bouw- en Onderhoudsbedrijf KCH;P. de Graaf;07/04/2016;Gevelrenovatie;12,8
+Gasthuissteeg;3184 NC;101;C;Geuzenwijk;Ruiter Bouwbedrijf;F. Timmermans;01/03/2017;Boomkap;9,6
+Catharijnesingel;9356 CF;132;;Oud Hoograven;Aannemersbedrijf Timmerman;X. Molenaar;09/06/2017;Schuur;19,2
+Brakelstraat (van);6778 MX;148;;Terwijde;van Bruggen Aannemersbedrijf;Y. Bosman;04/06/2020;Boomkap;16
+Blauwkapelscheweg;9619 AJ;75;B;Pijlsweerd-Zuid;Haggeman Aannemersbedrijf B.V.;T. van der Ven;04/11/2019;Nieuwbouw;9,6
+Drakenburgsteeg;4115 ZC;129;;Molenbuurt;Bouwbedrijf Baltussen;M. Timmermans;08/03/2019;Dakkapel;16
+Takstraat;3380 KD;141;;Rivierenwijk;John Braas Bouwbedrijf B.V.;J. Hendriks;05/03/2019;Gevelrenovatie;12,8
+Varkenmarkt;2889 OI;92;C;Dichterswijk;Bekhuis Bouwbedrijf;U. van de Berg;14/02/2018;Verwijderen stal;16
+Jan Houtmanstraat;1661 FV;131;;Kanaleneiland-Zuid;van Dijk Aannemersbedrijf;K. van der Ven;13/07/2019;Verwijderen stal;35,2
+Lijnmarkt;8016 XK;22;;Tuindorp-Oost;Bouwbedrijf J. van Dijk B.V.;W. de Wit;17/03/2015;Aanbouw;6,4
+Kromme Rijn;3194 AM;20;;Pijlsweerd-Zuid;Bouwbedrijf Timmerman BV;Q. de Ruiter;09/02/2019;Dakkapel;32
+Adriaanstraat;2119 CN;111;;Tuinwijk-Oost;J.Verschoor Bouw B.V.;H. Schouten;22/04/2018;Verwijderen stal;12,8
+Delistraat 2e;5751 RE;138;;Bokkenbuurt;Chr van Arnhem en Zn B.V.;P. Visser;17/07/2015;Nieuwbouw;12,8
+Leidsche Kade;7977 BP;100;B;Lunetten-Noord;Wagemakers Bouwbedrijf B.V.;H. van de Meer;22/03/2019;Boomkap;16
+Leeuwstraat;6257 EN;44;;Kanaleneiland-Zuid;Chrimako B.V.;G. Evers;23/05/2020;Verwijderen stal;9,6
+Bloemstraat;9434 EB;109;;Pijlsweerd-Noord;Slim Bouwen Assen;B. Vink;06/01/2015;Nieuwbouw;25,6
+Dorstige-hartsteeg;3091 XF;35;C;Sterrenwijk;Segerink Aannemersbedrijf;H. Bos;06/11/2015;Dakkapel;9,6
+Speykstraat (van);2265 QR;80;B;Oudwijk;Baderie Assen;F. van Dam;05/08/2018;Aanbouw;25,6
+Pieter Saenredamstraat;7363 FW;56;B;Kanaleneiland-Noord;Sanders Aannemersbedrijf W G M;W. van de Meer;04/04/2018;Verwijderen stal;25,6
+Bleijenburgstraat;5529 UY;12;;Lunetten-Noord;Aannemingsbedrijf Project Rotterdam B.V.;O. van Vliet;30/11/2016;Schuur;19,2
+Soendastraat;5244 PB;56;;Geuzenwijk;Hummelink Bouw;E. de Haan;14/08/2015;Gevelrenovatie;25,6
+Badstraat;7826 VK;75;;Pijlsweerd-Zuid;Aannemersbedrijf Hekman Vroomshoop B.V.;V. Smit;20/01/2016;Verwijderen stal;35,2
+Korte Nieuwstraat;7763 TU;123;;Transwijk-Noord;Aannemersbedrijf J.W van Tunen;I. Vink;28/10/2019;Dakkapel;38,4
+Hoogstraat;3766 SO;33;;Pijlsweerd-Noord;Bouwbedrijf Barten B.V.;S. Gerritsen;05/02/2019;Verwijderen stal;35,2
+Boorstraat;7244 UW;64;D;Lombok-West;Bouwbedrijf De Wit B.V.;B. Vos;08/04/2017;Nieuwbouw;16
+Buurkerkhof;2440 AR;92;;Watervogelbuurt;Bergwerf Bouw- en Aannemingsbedrijf;Y. van den Berg;22/02/2018;Stal;16
+Bregittenstraat;9052 QU;62;A;Bedrijventerrein Lageweide;Norbert Schwarte Bau B.V.;L. Scholten;01/08/2019;Gevelrenovatie;35,2
+Boterstraat;9054 XP;117;D;Tuinwijk-Oost;Hegeman Bouw Partners B.V.;E. Postma;01/12/2019;Dakkapel;9,6
+Eikenboomstraat;2134 RB;62;;Bedrijventerrein Lageweide;Aannemingsmij Vink B.V.;A. Mulder;14/07/2016;Stal;12,8
+Dondersstraat (F.C.);3634 KC;114;;Transwijk-Noord;Bouwbedrijf Bakker Arkel B.V.;U. van den Pol;21/09/2016;Gevelrenovatie;6,4
+Rozenstraat;7647 CY;40;A;Lombok-Oost;The Mac Group BV;U. Vink;22/05/2020;Gevelrenovatie;16
+Nieuwegracht;1629 QK;125;;Oud Hoograven;Rowebo Aannemersbedrijf;R. van Vliet;02/01/2016;Verwijderen stal;32
+Riviersteeg;5787 CP;113;D;Rivierenwijk;Aannemersbedrijf Grijzenhout B.V.;E. van den Brink;01/05/2017;Dakkapel;38,4
+Zandpad;8335 OH;83;;Bedrijventerrein Lageweide;DEBA Vastgoed Onderhoud;M. de Boer;24/12/2018;Boomkap;38,4
+Buurkerkhof;9242 SZ;69;D;Lunetten-Noord;Vema Schiedam B.V.;G. Blom;11/06/2018;Verwijderen stal;19,2
+Baanstraat;5735 SO;84;D;Ondiep;Aannemer en bouwbedrijf Aladino;F. Kok;13/03/2020;Nieuwbouw;22,4
+Dillenburgstraat;2290 HF;90;;Tuinwijk-Oost;Bouwbedrijf Bakker Arkel B.V.;W. Wolters;14/12/2017;Aanbouw;38,4
+Markstraat;4930 PE;97;;Sterrenwijk;Borrenbergs Bouwbedrijf B.V.;H. de Boer;17/08/2015;Gevelrenovatie;28,8
+Rijnstraat;7526 DZ;26;;Schildersbuurt;Aannemersbedrijf JMB B.V.;S. van de Brink;25/05/2016;Gevelrenovatie;28,8
+Lakmoessteeg;2191 GW;9;A;Tuinwijk-Oost;Pardoel Aannnemersbedrijf B.V.;E. van der Laan;10/12/2018;Nieuwbouw;16
+Jan Meyenstraat;4470 UU;64;A;Kanaleneiland-Zuid;v.o.f.jh. pulles en zn.;O. van de Ven;21/04/2018;Dakkapel;9,6
+Leeuwenst. Laan;5890 SC;83;;Lombok-Oost;Bouwbedrijf Buschers B.V.;K. van den Heuvel;21/04/2018;Nieuwbouw;19,2
+Sterrenhof;3330 PH;40;;Strijkviertel;Koertse Bouw en Onderhoud C;S. Dijkstra;13/02/2020;Stal;22,4
+Putsteeg;1439 ZC;118;;Lunetten-Noord;Vervobouw;E. Peters;07/05/2020;Dakkapel;19,2
+Slachtsteeg;7580 LL;14;A;Kanaleneiland-Noord;Bekhuis Bouwbedrijf;D. Kramer;19/11/2019;Boomkap;16
+Spijkerstraat;8027 UB;133;;Vogelenbuurt;Kuperus bouw;O. Blom;21/04/2017;Dakkapel;32
+Museumlaan;1285 CO;28;D;Transwijk-Zuid;Van der Werff Groep;H. Kuiper;12/05/2020;Nieuwbouw;25,6
+Brakelstraat (van);9238 HY;27;;Bokkenbuurt;Bouwen en Installeren Den Boer B.V.;L. Mol;01/01/2020;Boomkap;38,4
+Rijndijk;7057 HJ;77;;Nieuw Hoograven;Entius Bouwbedrijf K;Z. Schouten;17/04/2020;Dakkapel;25,6
+Beverstraat;4769 KS;25;;Lunetten-Zuid;aannemer Marcel Start verbouwingen;A. Vos;20/03/2020;Schuur;38,4
+Oudkerkhof;8645 VE;133;C;Hogeweide;DVL Buitenruimte;H. de Koning;03/02/2019;Dakkapel;9,6
+Vredeplaats;4509 YJ;141;A;Langerak;P-bma;W. van de Ven;28/06/2015;Stal;9,6
+Antoniestraat;2087 MC;15;;Transwijk-Zuid;Zandspuiten.nl;R. Willems;30/07/2018;Boomkap;12,8
+Dirkje Mariastraat;5554 NL;63;;Tuindorp-Oost;Lamers Bouw;W. Schipper;17/05/2018;Dakkapel;6,4
+Boomstraat;2651 PW;130;;Terwijde;FixEnjoy Bouw B.V.;A. Jonker;30/06/2019;Dakkapel;35,2
+Vleutensche Vaart;7640 LT;133;;Tuinwijk-West;Aannemersbedrijf Braak Velsen B.V.;H. Timmermans;06/05/2019;Nieuwbouw;22,4
+Soendastraat;2428 OO;102;D;Oudwijk;Schildersbedrijf J Simons B.V.;C. Bosman;23/07/2017;Verwijderen stal;12,8
+Waterpoort;3818 RY;28;C;Zuilen-Noord;Aannemersbedrijf B Strumpel B.V.;R. van de Veen;23/05/2020;Stal;16
+Daalschedijk 1e;8271 KH;144;;Terwijde;HX Industrial Roof Services;P. Willemsen;05/11/2018;Stal;32
+Zadelstraat;8286 JQ;24;;Kanaleneiland-Zuid;Bestratingen J de Bie B.V.;J. van der Meer;02/06/2018;Verwijderen stal;25,6
+Stadhuisbrug;6047 QQ;141;;Lombok-Oost;van Leur Groep Utrecht;S. Blom;14/07/2016;Gevelrenovatie;16
+Hemdsmouwsteeg;9484 MM;62;;Strijkviertel;Aannemingsbedrijf Nees De Jong B.V.;I. de Groot;09/07/2019;Stal;35,2
+Diaconiepoort;6491 RE;116;D;Strijkviertel;Aannemingsbedrijf Nico de Bont B.V.;L. Bosch;26/10/2019;Stal;19,2
+Blauwkapelscheweg;5340 UX;8;;Schildersbuurt;Bouwbedrijf Verbruggen Zijtaart B.V.;H. Bosman;07/11/2016;Stal;38,4
+Tolsteegbrug;2748 AF;97;C;Molenbuurt;Aannemersbedrijf Gerrits Gendt BV.;T. van de Velde;13/08/2019;Nieuwbouw;35,2
+Rozenhofje;3282 LW;44;A;Tuindorp-Oost;Van den Broek Bestratingen;W. van Veen;29/09/2015;Gevelrenovatie;25,6
+Ekerenspoort;6644 UD;107;C;Pijlsweerd-Zuid;SHP Bouwbedrijven;K. de Wit;17/04/2018;Boomkap;28,8
+Abstederdijk;1719 LQ;111;;Pijlsweerd-Zuid;A-HA;H. de Jonge;24/08/2018;Gevelrenovatie;22,4
+Bem. Weerd OZ;9685 WL;26;C;Lunetten-Zuid;Henselmans Bouwbedrijf B.V.;H. de Jong;29/06/2018;Boomkap;35,2
+Hanengeschrei;7495 FH;112;;Geuzenwijk;Bouwbedrijf Dahlhaus B.V.;O. van den Velde;04/12/2019;Stal;19,2
+Nicolaasdwarsstraat;8898 SA;72;B;Strijkviertel;Bouwbedrijf Bosma B.V.;E. van Beek;25/03/2018;Dakkapel;22,4
+Wagenstraat;7640 MB;126;;Oud Hoograven;Bouwbedrijf Maalderink Reusken;L. van der Heijden;24/09/2018;Verwijderen stal;35,2
+Meidoornstraat;9697 HO;42;;Geuzenwijk;Nieuwe Fundering Funderingsherstel;M. Mulder;26/11/2018;Stal;22,4
+Javastraat;6684 PK;106;;Dichterswijk;Van der Werff Groep;B. van de Pol;26/10/2015;Stal;9,6
+Visscherssteeg;5971 KH;133;A;Rivierenwijk;Geveke Bouw B.V.;K. Jansen;20/07/2019;Dakkapel;28,8
+Walsteeg;6682 WW;22;;Oudwijk;Ursem Bouwgroep;G. Hoekstra;18/05/2018;Boomkap;38,4
+Zoutmarkt;1662 LC;79;C;Papendorp;Greve Aannemersbedrijf M A;Y. Evers;24/07/2018;Verwijderen stal;12,8
+Minstraat;9089 TO;10;;Schildersbuurt;Het Charles Maakt;K. van Beek;21/01/2015;Boomkap;25,6
+Reguliersteeg;1075 XD;100;;Tweede Daalsebuurt en omgeving;Joh van Herk Aannemingsmaatschappij B.V.;F. van de Velde;24/01/2017;Nieuwbouw;35,2
+Mauritsstraat;5800 KK;108;;Sterrenwijk;Lamboo & Zn Fa A J;I. Janssen;03/02/2019;Nieuwbouw;25,6
+Doornboomstraat;4729 CR;139;C;Nieuw Hoograven;Chris Liet B.V.;Q. van de Velde;22/06/2015;Aanbouw;9,6
+Kromme Rijn;7022 XA;62;;Lunetten-Zuid;Lubbers Timmerwerken;V. Smits;07/02/2018;Aanbouw;32
+Adriaanstraat;6201 MH;12;A;Tuinwijk-West;Lubbers Timmerwerken;A. Koning;21/02/2017;Verwijderen stal;19,2
+Tuchthuisstraat;5900 JO;88;D;Papendorp;HJ Poppink BV;P. van der Velde;05/02/2020;Verwijderen stal;16
+Zaagmolenkade;7573 LX;60;A;Papendorp;De Haan Bouwonderneming G H;G. de Lange;23/02/2019;Gevelrenovatie;25,6
+Kerkstraat;7437 VR;61;;Vogelenbuurt;Henzen-Specialistische-Diensten ;S. Peeters;31/10/2019;Boomkap;28,8
+Hanengeschrei;2709 AK;117;;Hogeweide;Oosterbroek Cor Bouwbedrijf B.V.;T. de Lange;15/01/2016;Verwijderen stal;12,8
+Meidoornstraat;5152 RI;71;A;Oudwijk;Sanders afbouw VOF;G. Kuijpers;24/06/2015;Verwijderen stal;9,6
+Krielsteeg;2265 GR;139;A;Lombok-West;SBM Trading;B. Post;10/02/2020;Aanbouw;28,8
+Lageweidsche dijk;6828 XK;121;C;Transwijk-Zuid;vd Maazen Bouwbedrijf;Y. de Vos;16/11/2016;Aanbouw;6,4
+Kroonsteeg;1360 PQ;81;;Tweede Daalsebuurt en omgeving;Gerwers;V. Jonker;14/11/2019;Boomkap;32
+Korte Hamsteeg;2467 ZD;5;;Watervogelbuurt;Aannemersbedrijf Grijzenhout B.V.;F. de Bruyn;20/09/2017;Aanbouw;16
+Houtensche pad;2356 EJ;115;;Hogeweide;Bouwbedrijf van Grootveld B.V.;A. van den Velde;12/10/2018;Boomkap;35,2
+Pasteurstraat;7567 MF;51;;Geuzenwijk;Bouwbedrijf Elpenhof B.V.;G. de Graaf;26/01/2018;Dakkapel;16
+Vrouwjuttenstraat;4643 SO;85;;Molenbuurt;Van den Biggelaar Grond- en waterbouw BV;M. Boer;25/05/2019;Stal;19,2
+Loevenhout. Dijk;9088 PL;48;;Sterrenwijk;Somass Bouwbedrijf B.V.;G. Bos;22/10/2019;Stal;28,8
+Servaasbolwerk;9995 IM;8;;Zuilen-Noord;Koers Bouw;R. van den Broek;20/01/2020;Dakkapel;28,8
+Nicolaasdwarsstraat;8030 WD;44;;Transwijk-Zuid;K_Dekker bouw & infra bv;T. de Koning;29/03/2015;Verwijderen stal;9,6
+Landstraat;8515 WR;123;;Nieuw Hoograven;Bouwbedrijf Van Dijk B.V.;L. van der Horst;20/07/2016;Gevelrenovatie;25,6
+Kerkdwarsstraat;5853 LI;45;;Lunetten-Noord;EP Bouwbedrijf;E. de Boer;29/12/2018;Stal;38,4
+Steenweg;4580 LT;34;C;Tuinwijk-Oost;Aannemersbedrijf vd Voort;Z. van Dam;19/08/2017;Stal;35,2
+Ridderschapstraat;9522 VG;51;;Geuzenwijk;Bouwservice ijmond v.o.f;Q. Jansen;26/01/2020;Boomkap;25,6
+Korte Elisabethstraat;7267 KP;101;A;Oud Hoograven;Hekkelman Gorssel Aannemersbedrijf;H. Visser;30/05/2016;Nieuwbouw;38,4
+Bem. Weerd OZ;4905 LI;126;D;Langerak;van De Zon Bouwbedrijf;C. Timmermans;24/03/2017;Verwijderen stal;19,2
+Narcisstraat;6052 YR;15;C;Staatsliedenbuurt;Bouw en aannemingsbedrijf Zwaluwe B.V.;Z. Veenstra;31/05/2019;Nieuwbouw;22,4
+Maliesingel;6865 VC;10;;Lunetten-Zuid;Greven Bouwonderneming;N. de Haan;13/08/2018;Boomkap;35,2
+Voetiusstraat;4442 DH;108;;Lombok-West;Frebouw Bouw- & Onderhoudsbedrijf;N. Jansen;05/02/2018;Schuur;6,4
+Muntstraat;6852 QQ;37;;Staatsliedenbuurt;Gerard Heij Bouw en Timmerbedrijf;N. Bosch;24/06/2017;Verwijderen stal;32
+Alendorpsteeg;1794 IJ;7;;Tuindorp-Oost;Aannemersbedrijf M P Drijvers B.V.;G. van de Meer;13/03/2020;Stal;25,6
+Leistraat;4369 TJ;108;;Ondiep;Huybregts Relou B.V.;R. Schouten;12/06/2016;Gevelrenovatie;16
+Ravensteeg;8197 QQ;60;;Transwijk-Noord;Braber Renesse Bouwbedrijf B.V.;T. Kuijpers;21/02/2017;Nieuwbouw;25,6
+Mariastraat;8637 YG;25;;Langerak;Bergwerf Bouw- en Aannemingsbedrijf;G. de Wit;03/11/2017;Boomkap;35,2
+Kalverstraat;4505 DW;53;C;Strijkviertel;van Dijk Bouwbedrijf;P. Smit;02/05/2018;Aanbouw;38,4
+Mariahofje;1902 OZ;9;D;Ondiep;Broers Bouwbedrijf;Q. Janssen;16/05/2020;Schuur;38,4
+Rondpoort;5560 ZP;3;B;Tuinwijk-Oost;Haggeman Aannemersbedrijf B.V.;N. Vermeulen;03/08/2019;Stal;9,6
+Bleekstraat;6736 EH;91;;Tuinwijk-West;DSL Support Aannemingsbedrijf BV;B. Schipper;15/01/2019;Dakkapel;38,4
+Ondiep;5952 VA;122;;Strijkviertel;Hoogewerf Adviesburo BV;P. Sanders;02/02/2017;Schuur;12,8
+Nassaustraat;6946 NZ;13;C;Oudwijk;Bimo Bouw Onderhoud;V. de Leeuw;21/03/2020;Gevelrenovatie;16
+Emmalaan;6147 SO;15;;Tuindorp-Oost;Kootstra-vd Veen VOF;G. Bosman;14/11/2017;Boomkap;6,4
+Korte Nieuwstraat;4364 SS;131;C;Papendorp;Aannemersbedrijf Nieuwenhuizen B.V.;R. de Jong;04/08/2016;Stal;38,4
+Wijnpoort;2252 BZ;128;;Hogeweide;Niehof J B;O. van der Heyden;16/02/2018;Stal;22,4
+Paddemoes;1757 EZ;125;;Kanaleneiland-Zuid;Sinnige Bouw B.V.;R. van Dam;21/04/2019;Verwijderen stal;38,4
+Ezelsdijk;3727 IO;31;;Pijlsweerd-Zuid;Poel Bouwbedrijf;Q. Bakker;29/09/2017;Schuur;12,8
+Walsteeg;4392 IW;58;D;Lunetten-Zuid;Paas B.V.;J. van de Berg;26/09/2019;Verwijderen stal;6,4
+Hekelsteeg;7660 GG;84;;Geuzenwijk;Kooistra Bouwbedrijf;H. van den Heuvel;18/06/2020;Schuur;25,6
+Molensteeg;9669 KU;76;;Tuinwijk-Oost;Aannemersbedrijf de Bouwmeesters.net;U. van der Linden;30/03/2017;Schuur;28,8
+Lange Elisabethstraat;5541 UA;62;;Ondiep;Kroeze Infra B.V.;M. van der Meer;11/10/2017;Gevelrenovatie;12,8
+Bergstraat;4814 KP;101;;Tweede Daalsebuurt en omgeving;Jelle's Boubedriuw BV;J. van den Pol;22/04/2018;Schuur;22,4
+Groeneweg;7261 QF;86;;Nieuw Hoograven;Reimerswaal Aannemingsbedrijf;B. Scholten;19/07/2017;Stal;9,6
+Amaliastraat;4123 LI;67;;Oudwijk;Aannemingsbedrijf Gebr J en P Oomen B.V.;C. Schipper;23/02/2019;Aanbouw;19,2
+Lucas Bolwerk;4776 LO;92;;Oudwijk;Alfa Totaalbouw;E. van den Heuvel;18/12/2019;Verwijderen stal;9,6
+Frederikastraat;7819 SX;120;;Rivierenwijk;Bouwbedrijf Voors-Dalen B.V.;G. de Lange;29/03/2018;Aanbouw;25,6
+Rijnsteeg;2022 FZ;43;;Molenbuurt;Bakels en Ouwerkerk Bouwgroep;E. van den Velden;12/01/2016;Boomkap;12,8
+Kleine Singel;1164 WM;54;B;Vogelenbuurt;Aannemersbedrijf J. van Dijk v.o.f.;X. Molenaar;20/01/2019;Schuur;32
+Fockstraat;6742 NE;106;;Transwijk-Zuid;vdBergHellendoorn aannemersbedrijf b.v.;O. Visser;09/12/2019;Schuur;28,8
+Narcisstraat;7153 QN;147;A;Bokkenbuurt;Bakker Woningverbetering VOF;F. Sanders;14/06/2016;Dakkapel;9,6
+Tuinstraat;5546 WM;140;C;Pijlsweerd-Noord;van Leur Groep Utrecht;O. Koning;19/10/2017;Boomkap;22,4
+Nassaulaan;3781 AV;100;;Lunetten-Zuid;Broens Bouwbedrijf;H. van der Berg;02/01/2017;Nieuwbouw;22,4
+Oosterstraat;4248 IO;24;;Terwijde;Baderie Assen;J. Meijer;16/04/2020;Schuur;32
+Leliestraat;9241 AO;96;;Staatsliedenbuurt;Keijl Bouwbedrijf;R. Peeters;03/08/2016;Dakkapel;22,4
+Grasstraat;6882 KM;124;;Zuilen-Noord;Aannemingsbedrijf Blokland;U. van Veen;12/02/2017;Schuur;32
+Oude Daelstraat;8252 EN;1;;Bedrijvengebied Overvecht;Aannemersbedrijf Vogt B.V.;D. van den Heuvel;14/10/2016;Boomkap;25,6
+Ekerenspoort;8862 MZ;77;;Zuilen-Noord;Vosbouw Vroomshoop B.V.;E. Bosman;11/10/2018;Stal;32
+Riouwstraat;1424 QU;67;C;Bloemenbuurt;B.A.B.S. afbouw;L. Vermeulen;04/09/2017;Stal;16
+Thinstraat;3361 CG;56;D;Buurtnaam;aannemer bos;P. van Beek;25/02/2017;Nieuwbouw;19,2
+Knollensteeg;1177 XB;150;;Kanaleneiland-Zuid;Tadema Bouwbedrijf B.V.;L. van der Ven;08/03/2020;Aanbouw;32
+Riviersteeg;8488 KJ;23;;Bedrijventerrein Lageweide;Klussenbedrijf Veran;Y. de Bruijn;21/01/2020;Gevelrenovatie;16
+Hamsteeg;1538 BG;74;;Bedrijvengebied Overvecht;ptc-opleidingen;U. van den Bosch;17/05/2016;Gevelrenovatie;22,4
+Leidsche Kade;4222 WI;150;A;Geuzenwijk;vd Maazen Bouwbedrijf;O. de Jonge;05/12/2019;Nieuwbouw;19,2
+Koningspoort;2039 RX;135;;Vogelenbuurt;Lingewaal B.V.;C. van der Meulen;15/06/2019;Stal;16
+Parkstraat;4515 KP;144;D;Transwijk-Noord;Zwaag Totaalonderhoud;W. Jansen;24/12/2018;Schuur;6,4
+Hoogravenschedijk;5981 AL;139;B;Schildersbuurt;Bouwbedrijf van Grootveld B.V.;H. Kok;05/02/2015;Dakkapel;16
+Lamstraat;4241 NY;82;;Hogeweide;Aannemingsbedrijf Blokland;B. de Vos;17/08/2019;Verwijderen stal;9,6
+Hooipoort;3699 PW;114;;Oudwijk;GEBR THIJSSEN B.V.;N. van der Meer;03/01/2015;Gevelrenovatie;16
+Imhoffstraat (van);9595 IJ;117;;Bedrijventerrein Lageweide;Ippel Civiele Betonbouw BV;Z. Brouwer;26/06/2016;Stal;38,4
+Jodenrijtje;5206 GL;44;A;Bedrijvengebied Overvecht;Concept Wonen;J. de Jong;07/11/2016;Schuur;16
+Muntsteeg;6142 NL;71;;Rivierenwijk;Aannemersbedrijf M P Drijvers B.V.;I. Kuijpers;21/04/2019;Stal;16
+Gerard Doustraat;1126 WR;113;;Transwijk-Zuid;Bouwbedrijf Voors-Dalen B.V.;H. de Wit;15/06/2020;Dakkapel;22,4
+Daalschedijk 2e;8986 RX;66;;Terwijde;Bouwbedrijf Wielink Frank;L. Peeters;17/02/2020;Nieuwbouw;12,8
+Grutterspoort;2738 LG;144;;Staatsliedenbuurt;Traas en Ovaa Infra B.V.;E. Brouwer;21/06/2016;Schuur;12,8
+Oudegracht (Tolst.);7304 QE;132;;Lunetten-Zuid;Senso Gietvloeren Rotterdam;U. van de Pol;26/03/2019;Verwijderen stal;28,8
+Dahliastraat;2434 TM;144;C;Papendorp;Knol Bouwbedrijf Peter B.V.;N. Bakker;03/04/2016;Boomkap;22,4
+Jeremiestraat;5565 QY;73;;Langerak;De Vries Aannemers- en Bouwbedrijf;Y. van der Ven;30/06/2018;Stal;28,8
+Stroomkade;2090 YT;61;;Bedrijventerrein Lageweide;Console Bouw B.V.;H. de Koning;05/08/2017;Nieuwbouw;32
+Reguliersteeg;8609 RX;66;;Ondiep;Boekelo Aannemersbedrijf Stokkers B.V.;I. de Groot;09/11/2017;Boomkap;9,6
+Zeilsteeg;4308 CT;44;;Buurtnaam;VolkerWessels;V. Schipper;05/07/2015;Boomkap;19,2
+Nathanaëlspoort;7635 SW;109;;Buurtnaam;Bouwbedrijf Rijnbeek;T. van den Brink;24/11/2015;Gevelrenovatie;35,2
+Bloemstraat;4632 DU;49;;Oud Hoograven;SBC Aannemers B.V.;E. Hermans;07/02/2016;Stal;35,2
+Stadhouderslaan;4007 UR;87;;Kanaleneiland-Zuid;BOUWBEDRIJF SCHROEN B.V;Q. Timmermans;09/12/2018;Gevelrenovatie;6,4
+Bem. Weerd WZ;3307 PJ;146;;Oud Hoograven;van Lingen B & U Aannemersbedrijf J;P. Vermeulen;29/05/2017;Dakkapel;6,4
+Zuilensteeg;5230 HK;78;;Sterrenwijk;Geldof Zeeuwsch-Vlaanderen B.V.;R. Postma;07/09/2017;Stal;9,6
+Prinsenstraat;4966 WQ;101;;Terwijde;T & W Bouw;M. Kramer;16/07/2016;Dakkapel;9,6
+Zaagmolenkade;5661 NB;2;A;Molenbuurt;Bouwbedrijf Geers B.V.;V. Jonker;31/07/2015;Dakkapel;6,4
+Hofsteeg;4802 MJ;136;;Zuilen-Noord;Gebr Griekspoor B.V.;U. Vermeulen;18/01/2015;Stal;6,4
+Rozenhofje;3801 SD;141;;Lombok-Oost;Bavro B.V.;O. Kramer;29/10/2019;Nieuwbouw;25,6
+Kuipersteeg;8979 DL;146;C;Staatsliedenbuurt;Uphoff Timmer-Bouwbedrijf.nl;L. Smits;06/03/2019;Nieuwbouw;32
+Riviersteeg;3611 OE;83;;Pijlsweerd-Noord;van Leur Groep Utrecht;J. van der Ven;13/02/2019;Schuur;16
+Jachtstraat;8920 YT;32;;Bloemenbuurt;Bouw- en Aannemingsbedrijf Dirk Bos B.V.;J. van der Heijden;20/01/2016;Verwijderen stal;16
+Pallaesstraat;3943 AS;139;A;Strijkviertel;WSM Bouw B.V.;T. Hermans;21/01/2020;Stal;25,6
+Borneostraat;6103 HX;146;D;Watervogelbuurt;Kooistra Bouwbedrijf;G. van der Wal;09/06/2019;Verwijderen stal;25,6
+Paralelweg;5807 DK;62;;Nieuw Hoograven;Bouw- en Aannemersbedrijf Webbink B.V.;I. Kramer;10/09/2018;Boomkap;9,6
+Oude Kerkstraat;2550 GO;57;;Rivierenwijk;RegioOfferte;N. Molenaar;03/12/2019;Verwijderen stal;25,6
+Blauwsteeg;7861 FA;127;B;Molenbuurt;Koppen Bouw B.V.;F. Peters;10/12/2017;Verwijderen stal;16
+Frederikastraat;9767 XA;99;;Pijlsweerd-Noord;Lankveld Bouwbedrijf;T. van Wijk;26/08/2016;Aanbouw;38,4
+Brinkhof;7345 ZT;23;D;Bedrijventerrein Lageweide;Koppen Bouw B.V.;H. Dekker;01/11/2015;Nieuwbouw;28,8
+Jacobsplein;7241 QP;70;A;Staatsliedenbuurt;Ruiter Bouwbedrijf;X. Vos;06/10/2017;Dakkapel;38,4
+Pijlstraat;3131 LN;5;;Staatsliedenbuurt;Planubouw B.V.;E. de Wit;25/03/2018;Gevelrenovatie;25,6
+Varkenmarkt;6252 QK;86;B;Pijlsweerd-Zuid;H.v.d.Bilt Aannemers & timmerbedrijf;I. van den Velden;03/06/2017;Verwijderen stal;35,2
+Nieuwe Kade;4491 NP;34;;Terwijde;Kuperus bouw;Z. Jacobs;06/07/2017;Schuur;35,2
+Protestantenhofje;6080 ZC;146;D;Watervogelbuurt;Waal Timmer- en Aannemersbedrijf;C. Peeters;02/12/2015;Nieuwbouw;28,8
+Delistraat 1e;4782 CJ;110;;Molenbuurt;VALERES Industriebouw B.V.;S. de Ruiter;06/03/2015;Verwijderen stal;28,8
+Onder de Linden;2302 GC;91;;Hogeweide;Kranenbarg Aannemersbedrijf G;V. Kok;22/03/2018;Gevelrenovatie;16
+Nassaulaan;7077 CG;75;D;Staatsliedenbuurt;Marku Bouw B.V.;R. Willemsen;01/04/2020;Verwijderen stal;6,4
+Pallaesstraat;5252 QT;83;;Kanaleneiland-Zuid;Timmerbedrijf R. Hogendoorn;Y. Meyer;20/08/2015;Stal;9,6
+Kwakkeldijk;2167 XH;50;;Buurtnaam;Bouwbedrijf Van Leeuwen's B.V.;B. Kok;29/04/2015;Aanbouw;22,4
+Korte Elisabethstraat;3822 WZ;70;;Lunetten-Zuid;Alfa Totaalbouw;C. van den Berg;28/05/2019;Nieuwbouw;28,8
+Nassaustraat;2281 IX;32;;Hogeweide;Bouwbedrijf H.Bouwers;N. Koning;20/08/2019;Dakkapel;12,8
+Drieharingstraat;6260 BW;148;;Oud Hoograven;Aannemingsmaatschappij ZVS Eemnes B.V.;N. Hoekstra;31/05/2017;Nieuwbouw;19,2
+Catharijnesingel;2688 ZZ;64;;Buurtnaam;AVH Bouw;L. Kuiper;10/04/2020;Gevelrenovatie;32
+Koningslaan;8751 FH;2;;Lombok-Oost;KMK Services;F. van der Berg;11/10/2018;Stal;32
+Nobelstraat;1273 PJ;82;;Kanaleneiland-Zuid;Bouwbedrijf Postma Bergharen;Q. de Haan;09/10/2019;Stal;25,6
+Begijnesteeg 1e;2122 TH;145;;Watervogelbuurt;Henselmans Bouwbedrijf B.V.;E. van den Berg;22/02/2017;Nieuwbouw;28,8
+Korte Viestraat;4943 MN;7;;Kanaleneiland-Zuid;Bouwbedrijf Wielink Frank;V. Peters;11/12/2016;Stal;19,2
+Hendrik de Keyserstraat;9938 JT;33;;Molenbuurt;Van Aalsburg BV;Q. de Vos;03/10/2015;Verwijderen stal;28,8
+Appelstraat;2672 EO;118;;Bedrijventerrein Lageweide;Poel Bouwbedrijf;S. Blom;13/09/2015;Nieuwbouw;38,4
+Achterom;1947 BO;8;;Pijlsweerd-Zuid;van Overhagen Bouwonderneming H;K. de Koning;10/04/2018;Stal;16
+Jeruzalemsteeg;1740 TS;64;;Nieuw Hoograven;Scheerder Bouwbedrijf B.V.;G. van den Heuvel;07/02/2017;Verwijderen stal;16
+Dirkje Mariastraat;7208 DZ;72;A;Nieuw Hoograven;vd Berg Bouwbedrijf M;O. Scholten;01/05/2020;Boomkap;6,4
+Hardebollenstraat;1915 EU;30;;Ondiep;Bouwmij Janssen;B. de Lange;24/06/2018;Dakkapel;28,8
+Brinkhof;3611 EL;4;;Oudwijk;SBM Trading;N. van de Wal;03/05/2015;Nieuwbouw;19,2
+Predikheerenstraat;9890 RQ;119;;Lombok-West;Bouwmij Janssen;A. van de Berg;08/02/2015;Schuur;6,4
+Spechtstraat 2e;7526 PH;91;;Bedrijvengebied Overvecht;Bergwerf Bouw- en Aannemingsbedrijf;F. Boer;24/07/2018;Gevelrenovatie;6,4
+Concordiastraat;3568 ZU;127;C;Tuinwijk-West;Bouwbedrijf Ad Spruit;Y. de Groot;20/09/2019;Stal;32
+Costa, Da kade;4545 XH;32;D;Dichterswijk;Bouwbedrijf Ted Groot B.V.;P. Postma;06/10/2018;Stal;35,2
+Ridderhofstad;5520 PH;109;B;Bloemenbuurt;Bimo Bouw Onderhoud;H. Post;09/02/2019;Aanbouw;32
+Donkere Gaard;6723 KG;29;;Tuindorp-Oost;Wildeboer Bouw BV;X. Willems;20/11/2017;Verwijderen stal;6,4
+Minkade;4469 AN;100;;Dichterswijk;Bouwbedrijf Bosma B.V.;V. de Ruiter;11/01/2016;Nieuwbouw;6,4
+Tromstraat;4920 FG;27;;Transwijk-Noord;AT Bouw B.V.;M. Meijer;02/08/2018;Gevelrenovatie;16
+Servetstraat;8062 UY;144;;Tuinwijk-West;Spee Aannemingsbedrijf B.V.;I. Brouwer;18/11/2015;Gevelrenovatie;9,6
+Oudegracht (Weerd);2876 JB;12;D;Tuinwijk-Oost;Aannemersbedrijf J. van Dijk v.o.f.;Q. van Dam;14/11/2015;Schuur;6,4
+Brugsteeg;9906 UG;24;;Langerak;Bouwbedrijf Timmerman BV;Z. Blom;14/05/2020;Aanbouw;35,2
+Kwakkeldijk;3334 YD;111;;Pijlsweerd-Noord;Bouwmaatschappij P W Schipper B.V.;C. Molenaar;29/01/2017;Aanbouw;6,4
+Schutstraat;8186 RY;42;;Staatsliedenbuurt;Paauw Bouwbedrijf;A. Bosman;10/06/2017;Dakkapel;35,2
+Wijde Begijnestraat;1841 LI;128;;Bedrijventerrein Lageweide;Tadema Bouwbedrijf B.V.;R. van der Wal;13/12/2017;Dakkapel;6,4
+Predikheerenstraat;2149 DU;127;C;Bokkenbuurt;Van Campen Bouwgroep B.V.;I. Vermeulen;26/03/2017;Nieuwbouw;32
+Fabriekstraat;3564 OQ;45;;Rivierenwijk;Boekelo Aannemersbedrijf Stokkers B.V.;H. de Leeuw;08/08/2018;Gevelrenovatie;32
+Poortstraat;4780 FG;67;C;Langerak;Aannemingsbedrijf BOS;Z. de Bruyn;03/01/2016;Boomkap;12,8
+Keizerstraat;1583 SP;123;A;Nieuw Hoograven;Enschede Bouwbedrijf;G. Maas;30/04/2018;Nieuwbouw;16
+Billitonstraat;1806 NW;136;C;Watervogelbuurt;Bouwbedrijf De Wit B.V.;Q. van der Pol;06/05/2018;Nieuwbouw;38,4
+Violenstraat;7311 CT;110;B;Oudwijk;AZER Grondwerk BV;H. Schipper;08/04/2016;Boomkap;19,2
+Horstdijk;4835 XO;145;;Bedrijventerrein Lageweide;Blanksma Bouwbedrijf B.V.;E. de Haan;06/06/2015;Schuur;22,4
+Landstraat;9950 ZL;19;;Vogelenbuurt;Bouwbedrijf Dahlhaus B.V.;U. van den Broek;20/04/2017;Aanbouw;6,4
+Kollewijsteeg;5866 ZL;68;;Pijlsweerd-Noord;Bouwservice Correct Limburg;T. van de Pol;28/07/2015;Dakkapel;16
+Maliestraat;2467 US;64;;Tuinwijk-Oost;SBC Aannemers B.V.;Y. de Jonge;26/10/2016;Dakkapel;28,8
+Rijndijk;2156 SO;40;;Kanaleneiland-Zuid;Reins Bouwbedrijf B.V.;S. van den Velde;16/03/2018;Gevelrenovatie;25,6
+Moreelsepark;5806 SP;96;;Lombok-Oost;Piet Peperkamp Bouwbedrijf;D. van der Laan;23/06/2018;Boomkap;25,6
+Molenwerfsteeg;8032 MC;62;;Bokkenbuurt;Renovatie- & Bouwbedrijf Select B.V.;Y. Driessen;07/02/2019;Schuur;38,4
+Hulststraat;2891 HF;80;;Lunetten-Zuid;Rietveld B.V.;J. van Doorn;20/05/2015;Verwijderen stal;12,8
+Leuningsteeg;5518 AR;4;;Kanaleneiland-Zuid;The Mac Group BV;F. van Dongen;27/10/2015;Gevelrenovatie;19,2
+Pieter Bothstraat;4408 EP;8;;Zuilen-Noord;Rudolphie Aannemersbedrijf R R;W. van Doorn;04/12/2019;Aanbouw;35,2
+Bellamystraat;3473 KK;81;C;Hogeweide;PHB Deventer B.V.;Z. Smit;19/09/2015;Boomkap;12,8
+A B C straat;7115 UM;53;A;Vogelenbuurt;Vochtwering Benelux;J. de Boer;11/01/2016;Nieuwbouw;28,8
+Knopstraat;1300 JN;146;D;Bedrijvengebied Overvecht;Tijdhof-Hobema aannemers bv;Z. Bakker;05/09/2019;Schuur;38,4
+Raamsteeg;7525 IE;80;;Oud Hoograven;Nipeco;O. de Groot;21/07/2015;Boomkap;22,4
+Spieringpoort;3165 PL;35;;Geuzenwijk;Bouw- en Aannemersbedrijf Webbink B.V.;O. van der Berg;18/08/2015;Nieuwbouw;6,4
+Costa, Da kade;6784 QQ;144;;Buurtnaam;Constructiebedrijf Broecks BV;L. Kramer;30/07/2018;Gevelrenovatie;9,6
+Jacobskerkhof;2471 ZP;58;A;Watervogelbuurt;NRB Bouw B.V.;W. van de Meer;20/12/2015;Stal;6,4
+Bankastraat;4808 EJ;59;A;Geuzenwijk;Aannemingsbedrijfvisser;S. de Vries;24/02/2017;Aanbouw;16
+Baansteeg 1e;7624 AR;112;;Nieuw Hoograven;Knol Bouwbedrijf Peter B.V.;W. Peeters;30/05/2019;Schuur;12,8
+Parkstraat;3854 VS;138;;Tweede Daalsebuurt en omgeving;Parallelbouw B.V.;R. van der Linden;28/02/2020;Gevelrenovatie;25,6
+Kolfstraat;2026 KN;131;A;Papendorp;Markus C en J en Zn B.V.;C. Koning;28/03/2016;Boomkap;32
+Mauritsstraat;7778 LD;84;;Lunetten-Zuid;Zweeds-Home Nederland;I. Janssen;19/09/2015;Verwijderen stal;12,8
+Leeuwstraat;3537 HQ;57;;Papendorp;Van Campen Bouwgroep B.V.;V. Gerritsen;18/05/2016;Stal;38,4
+Croeselaan;3385 TP;70;;Schildersbuurt;van Leur Groep Utrecht;B. de Bruin;03/03/2016;Gevelrenovatie;32
+Pieter Saenredamstraat;5435 VQ;82;A;Ondiep;Beens Groep Aannemer Weg en Waterbouw;C. de Jonge;29/11/2016;Nieuwbouw;32
+Huppeldijk;6214 LF;64;;Papendorp;Bevelander Timmer- & Bouwbedrijf J;T. Timmermans;04/02/2020;Boomkap;38,4
+Merwedekade;5317 BK;64;;Tuindorp-Oost;Heijneman Bouw B.V.;L. van der Heijden;25/12/2016;Schuur;19,2
+Gerard Doustraat;5399 LY;141;;Kanaleneiland-Noord;Voeg en Renovatiebedrijf MG;J. Molenaar;21/07/2019;Nieuwbouw;25,6
+Kovelaarsdijk;7698 OP;143;A;Lombok-West;Van den Heuvel Aannemingsbedrijf B.V.;J. de Wit;22/02/2015;Gevelrenovatie;19,2
+Stadhuisbrug;8121 DP;95;D;Strijkviertel;Broers Bouwbedrijf;Q. de Graaf;03/06/2020;Dakkapel;38,4
+Piet Heinstraat;4916 BV;133;;Schildersbuurt;Lankveld Bouwbedrijf;K. de Lange;01/10/2015;Schuur;9,6
+Eikstraat;5573 FI;118;;Watervogelbuurt;Allround Painters B.V.;K. Bos;24/02/2018;Stal;16
+Wolfstraat;4158 NL;36;D;Bokkenbuurt;Heech Boubedriuw;J. van der Meer;12/06/2016;Verwijderen stal;28,8
+Laurens Reaalstraat;8751 DC;42;;Bokkenbuurt;Aannemingsbedrijf Janssen-Groesbeek B.V.;N. van de Brink;16/10/2018;Nieuwbouw;28,8
+Kollewijsteeg;5698 GZ;101;C;Pijlsweerd-Zuid;De Haas Bouw en Aannemingsbedrijfj J;Y. Hoekstra;12/04/2016;Aanbouw;12,8
+Lakmoessteeg;8057 HZ;96;;Kanaleneiland-Zuid;Nanterre Bouw;O. de Ruiter;21/05/2020;Schuur;19,2
+Zakkendragersteeg;1025 JO;80;;Bloemenbuurt;Rietdijk Onderhoud B.V.;W. Verhoeven;13/08/2018;Boomkap;12,8
+Trans;1717 WD;6;;Transwijk-Noord;Bouwbedrijf Timmerman BV;P. Bosch;30/05/2018;Boomkap;12,8
+Achter Clarenburg;8808 LR;27;;Bokkenbuurt;Zwaag Totaalonderhoud;N. van de Meer;31/07/2015;Nieuwbouw;35,2
+Goudsbloemstraat;5755 MS;1;;Kanaleneiland-Zuid;All-Bouw Zaanstad;P. Kramer;09/06/2015;Schuur;22,4
+Pieter Bothstraat;6070 FY;8;;Nieuw Hoograven;Bouw 2000 B.V.;P. Vos;16/10/2019;Schuur;22,4
+Willemstraat;1398 JY;120;A;Oudwijk;Kuipers- en Koers bouw;R. van der Linden;12/10/2017;Dakkapel;38,4
+Ridderschapstraat;5916 LG;90;;Dichterswijk;Bouwbedrijf Stomps B.V.;J. de Graaf;07/12/2017;Aanbouw;16
+Schoonhuispoort;9065 FI;98;A;Pijlsweerd-Noord;J & D Bouwbedrijf;B. van den Broek;17/05/2018;Gevelrenovatie;9,6
+Jansdam;4039 GW;99;A;Geuzenwijk;Hegeman Beheersmaatschappij B.V.;K. van der Pol;16/04/2018;Nieuwbouw;22,4
+Nachtegaalstraat;6521 BM;69;;Bedrijvengebied Overvecht;HABO GWW B.V.;C. Smits;03/06/2020;Verwijderen stal;32
+Herman Saftlevenstraat;2670 LT;140;;Transwijk-Zuid;Alba Vochtwering BV;R. van de Brink;13/12/2016;Dakkapel;28,8
+Nachtegaalstraat;9611 CQ;108;;Ondiep;DOVER Verkeersmaatregelen;U. van den Berg;11/08/2015;Verwijderen stal;32
+Kraanstraat;9032 RQ;7;;Vogelenbuurt;Parallelbouw B.V.;Q. Mol;13/09/2017;Stal;25,6
+Amaliastraat;4092 JD;97;B;Watervogelbuurt;Hecon Bouwgroep;A. de Wit;22/04/2017;Gevelrenovatie;22,4
+Nicolaas Beetsstraat;2333 CC;83;D;Schildersbuurt;Hummelink Bouw;H. Koning;23/04/2017;Boomkap;6,4
+Bremstraat;9255 OA;122;;Tuinwijk-West;HDM Totaalbouw;S. Hofman;04/04/2018;Dakkapel;16
+Domtrans;3057 KD;66;;Transwijk-Noord;vdBergHellendoorn aannemersbedrijf b.v.;V. Dijkstra;10/09/2015;Gevelrenovatie;28,8
+Gildstraat;4454 PG;94;B;Transwijk-Noord;Rietdijk Onderhoud B.V.;Y. Bosch;21/09/2016;Schuur;19,2
+Schroeder van der Kolkstraat;2169 AY;7;;Pijlsweerd-Zuid;Heerkens van Bavel Bouw B.V.;B. van den Berg;17/04/2019;Verwijderen stal;9,6
+Kleine Singel;3635 ON;148;B;Bedrijvengebied Overvecht;MPO Vastgoed B.V.;V. Prins;21/02/2015;Boomkap;16
+Zandpad;3461 FX;41;;Pijlsweerd-Noord;Aannemingsmaatschappij Jellema B.V.;B. Bakker;10/04/2017;Boomkap;22,4
+Landstraat;7015 WN;40;;Lombok-West;Klein Gunnewiek Bouwbedrijf;V. van Veen;16/02/2019;Dakkapel;38,4
+Hoogravenschedijk;1935 UV;102;A;Watervogelbuurt;Vedder B.V.;X. Maas;22/04/2019;Nieuwbouw;12,8
+Waterstraat;5502 GV;99;;Strijkviertel;De Bouwhorst B.V.;D. Postma;26/03/2016;Verwijderen stal;19,2
+Raamsteeg;8390 WP;7;;Transwijk-Noord;vd Velden P H;E. Verhoeven;21/12/2019;Dakkapel;32
+Adelaarstraat;4901 GT;42;D;Geuzenwijk;ASK-Romein B.V.;T. de Jong;25/02/2020;Nieuwbouw;6,4
+Hanengeschrei;2965 JD;102;A;Bedrijvengebied Overvecht;Van Leeuwens bouwbedrijf;P. Scholten;24/12/2018;Dakkapel;28,8
+Valkstraat;3142 AM;83;;Lombok-West;Aannemersbedrijf Lagerberg BV;O. Veenstra;14/02/2020;Aanbouw;16
+Wagendwarsstraat;2587 WK;86;;Bloemenbuurt;Bouw en Ontwikkeling du Prie B.V.;M. Kuipers;18/01/2016;Aanbouw;38,4
+Oudwijkerveldstraat;2431 PW;142;;Langerak;LiemersBouw BV;N. Meijer;01/03/2016;Dakkapel;9,6
+Neude;8085 OH;31;;Buurtnaam;Budmax;J. van de Berg;04/07/2015;Gevelrenovatie;32
+Goedestraat;9983 OP;10;;Ondiep;Traas en Ovaa Infra B.V.;Z. Smits;03/01/2019;Nieuwbouw;16
+Klaverstraat;6363 GK;82;C;Bokkenbuurt;Aannemer Steven Konijn;O. Kuijpers;02/11/2018;Schuur;25,6
+Amaliastraat;2497 BG;35;C;Rivierenwijk;Wagemakers Bouwbedrijf B.V.;J. Willemsen;23/10/2015;Schuur;6,4
+Minstraat;9439 SY;113;;Tweede Daalsebuurt en omgeving;AlexWater&Bouw;C. van Loon;25/11/2016;Nieuwbouw;25,6
+Buurkerksteeg 2e;9673 YB;27;D;Tweede Daalsebuurt en omgeving;Aannemingsbedrijf F W Kuypers B.V.;O. van Veen;02/01/2015;Aanbouw;25,6
+Lamstraat;6383 YB;78;;Oud Hoograven;Bouw en aannemingsbedrijf Zwaluwe B.V.;I. Meyer;29/04/2018;Boomkap;28,8
+Zeedijk;8117 II;74;;Oudwijk;Rudolphie Aannemersbedrijf R R;S. Gerritsen;16/10/2015;Dakkapel;16
+Donkere Gaard;2026 JV;40;;Bokkenbuurt;UDB Bouwservice;R. van den Velden;21/03/2017;Boomkap;25,6
+Oude Daelstraat;4032 YZ;105;C;Kanaleneiland-Zuid;De Jong Bouwbedrijf P R;L. Blom;09/08/2018;Boomkap;9,6
+Tiendstraat;3123 EW;65;B;Zuilen-Noord;Factotum B.V.;B. van der Velden;15/10/2019;Gevelrenovatie;32
+Grasstraat;2696 RW;49;C;Tuindorp-Oost;SBC Aannemers B.V.;D. de Bruijn;15/12/2017;Verwijderen stal;12,8
+Hooipoort;7705 WS;69;C;Langerak;vd Broek Bouwbedrijf;P. Hermans;12/05/2018;Aanbouw;22,4
+Pieterstraat;2217 SC;74;;Oudwijk;Aannemersbedrijf Gerrits Gendt BV.;C. Smeets;17/02/2015;Verwijderen stal;12,8
+Lange Hartsteeg;6602 CM;49;;Sterrenwijk;A & E Kabel Bouwbedrijf B.V.;O. Huisman;16/07/2016;Aanbouw;16
+Buurkerksteeg 1e;8738 WW;84;;Lombok-West;Prive Kantoor;H. Molenaar;04/03/2016;Stal;38,4
+Lucas Bolwerk;8288 AG;73;;Strijkviertel;Bouten Bouwbedrijf B.V.;W. Driessen;06/03/2016;Aanbouw;25,6
+Nicolaas Beetsstraat;6800 ZY;11;;Lombok-Oost;Tadema Bouwbedrijf B.V.;E. Smit;07/07/2019;Dakkapel;16
+Boothstraat;7013 QD;1;;Bedrijventerrein Lageweide;UDB Bouwservice;Z. van de Meer;05/04/2018;Verwijderen stal;28,8
+Kievitdwarsstraat;4618 NX;63;A;Watervogelbuurt;Henzen-Specialistische-Diensten ;H. Schouten;02/06/2017;Verwijderen stal;38,4
+Ramstraat;6237 KU;49;;Bedrijventerrein Lageweide;EP Bouwbedrijf;C. Hoekstra;19/12/2017;Dakkapel;38,4
+Visscherssteeg;5165 TG;97;;Vogelenbuurt;Zwaag Totaalonderhoud;U. Smeets;21/06/2016;Gevelrenovatie;38,4
+Heemskerkstraat;6257 RS;8;;Vogelenbuurt;HABO GWW B.V.;M. Peeters;12/06/2018;Dakkapel;38,4
+Balistraat;4459 RA;16;C;Zuilen-Noord;Berkhout Bouw;Y. Jacobs;28/06/2019;Gevelrenovatie;25,6
+Gildstraat;9946 TK;28;B;Pijlsweerd-Noord;Klussenbedrijf Ko Mes;R. Jacobs;11/08/2017;Dakkapel;28,8
+Jacobskerkhof;2821 AY;66;A;Bedrijvengebied Overvecht;Plegt-Vos Geelen B.V.;J. Willemsen;18/05/2018;Schuur;38,4
+Driesprong;1881 ZX;87;;Vogelenbuurt;Huisman Bouw B.V.;C. Hofman;14/02/2019;Nieuwbouw;38,4
+Kromme Rijn;6562 JH;70;;Ondiep;Bouwbedrijf G.M. van Rooij B.V.;Z. van der Velde;09/05/2019;Aanbouw;22,4
+Palmstraat;7477 KO;41;;Papendorp;Hoffmans & Zn VOF Bouwbedrijf;Y. de Lange;08/09/2017;Boomkap;6,4
+Militaire Weg;3499 JI;94;;Schildersbuurt;Bouwklusbedrijf;N. van Dijk;18/04/2017;Gevelrenovatie;22,4
+Krommerijnstraat;5740 QJ;10;;Tweede Daalsebuurt en omgeving;Dura Vermeer Bouw Ede B.V.;G. Bakker;26/11/2017;Boomkap;25,6
+Ravensteeg;8806 TR;78;C;Papendorp;J G Appelman B.V.;G. Smeets;22/01/2019;Aanbouw;19,2
+Dondersstraat (F.C.);3149 PT;15;A;Terwijde;Wijen Bouwbedrijf T;V. Koster;13/07/2018;Verwijderen stal;19,2
+Singeldwarsstraat;5600 PB;25;C;Lunetten-Zuid;Spee Aannemingsbedrijf B.V.;F. Scholten;14/03/2018;Dakkapel;38,4
+Fockstraat;9694 IN;27;D;Kanaleneiland-Zuid;Broers Bouwbedrijf;T. van der Wal;07/06/2017;Nieuwbouw;35,2
+Buys Ballotstraat;8738 DV;118;;Zuilen-Noord;Nieuwenhuizen ;E. Kramer;14/03/2020;Nieuwbouw;38,4
+Fockstraat;7529 GF;140;;Zuilen-Noord;C J vd Noort & Zn B.V.;A. van den Bosch;17/12/2016;Gevelrenovatie;12,8
+Lanceepoort;5453 CU;15;;Rivierenwijk;Van Berkel Aannemers Leimuiden BV;C. de Groot;01/02/2015;Dakkapel;6,4
+Billitonstraat;7404 EJ;80;;Transwijk-Zuid;Dura Vermeer Bouw Ede B.V.;Q. van den Broek;12/02/2019;Aanbouw;38,4
+Raamsteeg;4939 UA;106;;Bedrijvengebied Overvecht;Prive Kantoor;D. van der Veen;12/10/2019;Schuur;38,4
+Oudkerkhof;1377 DC;88;;Bedrijvengebied Overvecht;Bouwbedrijf vd Horst B.V.;Q. Jacobs;26/03/2018;Boomkap;32
+Schoolstraat;6958 MV;75;D;Geuzenwijk;Parallelbouw B.V.;O. Willems;28/04/2017;Verwijderen stal;16
+Spiegelpoort;2056 OT;81;A;Transwijk-Zuid;Verkammen Aannemers- en Timmerbedrijf W;E. Willems;15/11/2016;Boomkap;6,4
+Wagenstraat;5159 BM;57;;Tweede Daalsebuurt en omgeving;Aannemingsbedrijf Project Rotterdam B.V.;I. Evers;16/07/2015;Schuur;25,6
+Muntstraat;7249 YF;58;;Pijlsweerd-Zuid;Somass Bouwbedrijf B.V.;K. Molenaar;02/05/2015;Schuur;35,2
+Achterstraat 1e;1825 QK;11;;Sterrenwijk;ELBERSE BOUWBEDRIJF B.V.;D. de Leeuw;12/10/2016;Nieuwbouw;19,2
+Joan van Oldenbarneveldtlaan;9647 BR;78;;Hogeweide;Martens Aannemingsbedrijf B.V.;L. van de Pol;24/02/2016;Schuur;19,2
+Munsterkerkhof;7548 BB;150;;Sterrenwijk;Bouwonderneming De Veluwezoom B.V.;L. Meijer;30/01/2019;Boomkap;28,8
+Willem Barentzstraat;1629 PA;109;;Bedrijventerrein Lageweide;Rentmeester Bouwbedrijf-Bouwmarkt S;I. Wolters;26/08/2018;Boomkap;6,4
+Vaartschestraat;3022 BG;29;;Kanaleneiland-Zuid;Koertse Bouw en Onderhoud C;R. Verhoeven;08/11/2015;Boomkap;16
+Vlijtstraat;7042 LO;14;;Zuilen-Noord;KEMO Vochtwering;H. de Leeuw;27/01/2017;Boomkap;38,4
+Hofsteeg;9438 YF;18;D;Oud Hoograven;Van den Heuvel;K. Kuiper;23/06/2015;Stal;22,4
+Lindestraat;9715 FF;85;;Staatsliedenbuurt;Kok Lexmond B.V.;V. van der Laan;03/10/2017;Boomkap;9,6
+Stationsstraat;8632 FM;89;;Strijkviertel;Zandspuiten.nl;T. Vink;15/11/2018;Boomkap;9,6
+Nauwe Blindesteeg;4097 MK;33;C;Buurtnaam;Bouwaf aannemer;F. van de Pol;23/02/2016;Gevelrenovatie;25,6
+Schoonhuispoort;7845 KH;5;D;Lombok-West;Aannemersbedrijf Jonker;Q. van der Meulen;13/11/2017;Dakkapel;19,2
+Poortstraat;2126 DS;118;;Oud Hoograven;van Braam-Minnesma VOF Bouwers;K. van den Berg;13/05/2018;Aanbouw;35,2
+Domsteeg;8580 YK;9;C;Bedrijventerrein Lageweide;Aannemersbedrijf Nieuwenhuizen B.V.;J. Willemsen;05/10/2018;Aanbouw;6,4
+Zuilenstraat;6322 RU;133;D;Lunetten-Zuid;Rooy Ehv.BV Bouwbedrijf E.van;F. Kuypers;07/06/2018;Nieuwbouw;22,4
+Kollewijsteeg;5458 SO;135;C;Transwijk-Noord;Lieftink Geveltechniek BV;T. Molenaar;16/09/2015;Gevelrenovatie;38,4
+Lageweidsche dijk;8038 FR;67;;Dichterswijk;A & E Kabel Bouwbedrijf B.V.;W. Jacobs;11/04/2015;Nieuwbouw;6,4
+Tuchthuisstraat;9325 HA;128;;Strijkviertel;Bijlbouw B.V.;B. Vos;01/02/2016;Boomkap;6,4
+Flieruilensteeg;9406 QJ;95;;Dichterswijk;Koers Bouw;M. de Boer;21/05/2019;Gevelrenovatie;16
+Wijde Doelen;2229 HX;30;;Tuinwijk-West;Bouw- en Handelsmij Van Wingerden B.V.;I. Schipper;30/09/2019;Dakkapel;35,2
+Valkstraat;1508 HQ;19;D;Vogelenbuurt;Corstjens Aannemersbedrijf VOF J C G;K. van der Meer;07/02/2020;Gevelrenovatie;6,4
+Lekstraat;5641 BM;97;;Watervogelbuurt;ASK-Romein B.V.;X. van der Velde;16/05/2019;Nieuwbouw;25,6
+Tulpstraat;2440 NJ;135;;Terwijde;van Bruggen Aannemersbedrijf;O. Brouwer;18/01/2016;Aanbouw;9,6
+Baanstraat;4919 QL;50;;Papendorp;Wielhouwer Aannemersbedrijf B.V.;Y. Vermeulen;02/05/2018;Schuur;6,4
+Heerenhofje;6360 AY;89;;Papendorp;ABB BOUW B.V.;I. Janssen;11/10/2018;Dakkapel;16
+Diaconessenstraat;9040 PQ;80;;Ondiep;Bruil Bouwbedrijf Ede B.V.;V. de Lange;05/10/2019;Aanbouw;6,4
+Westravenstraat;9777 AJ;118;D;Bloemenbuurt;Aannemingsmaatschappij Jellema B.V.;K. Willems;27/01/2019;Stal;12,8
+Catharijnesingel;8821 QD;42;;Papendorp;B.A.B.S. afbouw;S. de Wit;14/01/2015;Boomkap;35,2
+Kievitdwarsstraat;1318 PM;88;;Bedrijventerrein Lageweide;Bouwbedrijf Pennings B.V.;B. Jonker;21/02/2015;Gevelrenovatie;16
+Bem. Weerd OZ;2353 UR;26;;Papendorp;Derksen Stukadoors;F. Dijkstra;20/01/2017;Verwijderen stal;25,6
+Eikenboomstraat;9945 TG;15;;Lunetten-Noord;De BEER bouwbedrijf;S. Schipper;29/03/2019;Gevelrenovatie;9,6
+Kruisdwarsstraat;2508 UY;73;;Oud Hoograven;Vedder B.V.;D. Schipper;03/07/2016;Aanbouw;6,4
+Antoniedijk;4342 PY;110;C;Bloemenbuurt;Gils Bouwservice en Onderhoud B.V.;L. Dijkstra;18/10/2015;Gevelrenovatie;12,8
+Lamstraat;3468 DI;22;;Hogeweide;Aannemersbedrijf vd Voort;U. van der Velde;21/07/2016;Schuur;12,8
+Achterstraat 2e;7086 QQ;72;;Terwijde;A.Maas Bouw B.V.;W. Driessen;03/05/2018;Boomkap;28,8
+Cellebroederstraat;3633 KP;94;;Papendorp;BMU Groep Bouw & Onderhoud;G. Postma;30/12/2015;Schuur;6,4
+Begijnekade;6394 EH;68;;Rivierenwijk;Norbert Schwarte Bau B.V.;D. Scholten;29/06/2015;Boomkap;9,6
+Bleekstraat;1217 EI;91;;Schildersbuurt;Rietdekkersbedrijf Van Ginkel;E. van der Meer;07/04/2017;Stal;16
+Lijnpadsteeg;3183 UX;122;;Tuindorp-Oost;Aannemingsbedrijf Van Driel B.V.;L. van der Linden;08/05/2017;Verwijderen stal;22,4
+Oudegracht (Weerd);2696 TA;100;;Pijlsweerd-Zuid;Aannemers J J vd Speld en Zn B.V.;I. Driessen;07/06/2018;Schuur;32
+Jacobsplein;8511 AE;1;;Sterrenwijk;Lingewaal B.V.;P. Post;27/07/2017;Nieuwbouw;28,8
+Predikheerenstraat;6370 TR;22;;Papendorp;Bouwklusbedrijf;Q. de Bruin;18/02/2016;Verwijderen stal;12,8
+Westerdijk;1569 SI;100;B;Terwijde;Aannemersbedrijf Meeusen en Zn B.V.;V. Gerritsen;26/02/2018;Boomkap;16
+Bladstraat;9012 YR;66;;Molenbuurt;Aannemersbedrijf Grijzenhout B.V.;S. Boer;30/04/2015;Dakkapel;38,4
+Plompetorenbrug;3920 AX;77;;Staatsliedenbuurt;W Hartman & Zn B.V.;D. Dekker;29/03/2020;Aanbouw;9,6
+Achterstraat;7934 WF;96;D;Oudwijk;Tommaat BV;E. van der Wal;16/11/2016;Stal;22,4
+Bem. Weerd WZ;9979 YM;4;;Transwijk-Zuid;Kramer's Bouwbedrijf B.V.;Q. van der Heijden;25/02/2019;Dakkapel;9,6
+Renstraat;2382 KM;115;;Transwijk-Noord;Klussenbedrijf Ko Mes;E. de Koning;02/03/2015;Verwijderen stal;16
+Muntsteeg;3841 GC;109;;Rivierenwijk;Veldwachter Aannemersbedrijf B.V.;Q. de Ruiter;23/06/2019;Dakkapel;16
+Weerdsingel O.Z.;8722 PT;22;;Bloemenbuurt;H ter Haar B.V.;K. Schipper;05/05/2016;Gevelrenovatie;32
+Zoutmarkt;3932 CI;96;;Tweede Daalsebuurt en omgeving;Hecon Bouwgroep;U. Martens;02/02/2015;Dakkapel;22,4
+Kwartelstraat;3983 VO;3;;Oudwijk;Aannemingsbedrijf Cornelissen B.V.;D. Meyer;28/07/2016;Verwijderen stal;35,2
+Andreasstraat;4584 UQ;89;C;Buurtnaam;Broens Bouwbedrijf;Y. Bos;06/10/2016;Dakkapel;9,6
+Geertebolwerk;6286 YL;6;;Langerak;Aannemingsbedrijfvisser;R. de Bruijn;27/06/2019;Boomkap;35,2
+Korte Jansstraat;6128 QH;3;B;Vogelenbuurt;Minibouw;C. Jansen;22/06/2017;Boomkap;16
+Adelaarstraat;8781 GA;42;;Schildersbuurt;van Bouwbedrijf Geresteijn;Y. van der Meulen;25/09/2018;Stal;35,2
+Nauwe Watersteeg;2691 FL;28;;Sterrenwijk;Tankens Andel B.V.;V. Veenstra;28/06/2015;Gevelrenovatie;28,8
+Grave van Solmsstraat;3321 CQ;51;C;Bedrijventerrein Lageweide;Wijen-Bouw B.V.;H. Schipper;14/01/2015;Aanbouw;19,2
+Fabriekstraat;9867 ZU;94;;Papendorp;Allround Painters B.V.;P. van der Horst;22/05/2019;Dakkapel;32
+Drakenburgsteeg;3220 GM;10;;Kanaleneiland-Zuid;Claassen Bouwbedrijf A;N. de Haan;31/08/2019;Nieuwbouw;38,4
+Vleutensche Weg;2965 GD;128;A;Oud Hoograven;Kusters Bouwbedrijf B.V.;E. de Bruijn;09/01/2019;Gevelrenovatie;9,6
+Vischmarkt;8977 OL;33;;Buurtnaam;Vios Bouw en Onderhoud Amsterdam B.V.;H. de Bruyn;28/11/2016;Schuur;35,2
+Hamburgerstraat;1973 XV;76;;Kanaleneiland-Noord;Van Santen & zn B.V.;C. van Dam;23/11/2015;Boomkap;38,4
+Nauwe Blindesteeg;9076 IS;44;;Nieuw Hoograven;van Dijk Bouwbedrijf;J. Molenaar;04/12/2016;Nieuwbouw;38,4
+Oosterkade;7527 PL;112;;Transwijk-Noord;Obdeijn B.V.;P. Schipper;24/09/2016;Schuur;22,4
+Graanstraat;9408 VE;60;;Papendorp;Traas en Ovaa Infra B.V.;Z. de Haan;15/04/2019;Gevelrenovatie;9,6
+Westerkade;3095 RU;57;;Ondiep;Bouwbedrijf WESTLAND constructions BV;Y. de Bruijn;31/10/2016;Gevelrenovatie;28,8
+Hoog Glagenweerd;4428 LE;36;;Papendorp;Bouwmaatschappij Visser en Mol B.V.;D. Huisman;11/10/2016;Stal;32
+Singelsteeg;4223 YK;96;;Bedrijventerrein Lageweide;Horst Klein- en Verbouw;V. van Leeuwen;31/03/2016;Dakkapel;16
+Kleine Slachtsteeg;9068 QY;42;;Bedrijvengebied Overvecht;Florijn & Zn Fa A;Q. de Bruyn;16/11/2017;Gevelrenovatie;32
+Gietershof;1176 FJ;82;;Terwijde;Bouwbedrijf Hissel;U. Hofman;15/03/2015;Nieuwbouw;32
+Veldstraat;8489 YN;37;;Hogeweide;Budmax;X. de Bruin;03/02/2020;Aanbouw;35,2
+Singeldwarsstraat;3813 BE;18;;Transwijk-Noord;Aannemersbedrijf J. van Dijk v.o.f.;V. van den Pol;22/11/2018;Aanbouw;32
+Soendastraat;5169 AA;144;A;Sterrenwijk;A Huurdeman Bouwbedrijf B.V.;N. Peeters;24/03/2016;Verwijderen stal;16
+Pelmolenweg;3019 EQ;142;A;Tuinwijk-Oost;Joh van Herk Aannemingsmaatschappij B.V.;H. Huisman;08/06/2016;Aanbouw;16
+Alendorpsteeg;6159 FY;59;D;Bloemenbuurt;Bouwbedrijf H.Bouwers;T. Molenaar;29/08/2019;Verwijderen stal;38,4
+Pausdam;6798 HH;53;;Sterrenwijk;Chrimako B.V.;M. Post;02/12/2019;Nieuwbouw;25,6
+Korte Jansstraat;1694 VX;33;;Strijkviertel;AVH Bouw;U. de Bruijn;11/04/2018;Aanbouw;9,6
+Laan van Puntenburg;4070 OP;64;;Terwijde;Burgmeijer's Bouwbedrijf B.V.;V. Jacobs;10/12/2019;Dakkapel;25,6
+Zeedijk;2318 GZ;71;D;Lombok-Oost;RKB Services;Z. Bosch;08/03/2020;Verwijderen stal;35,2
+Vischmarkt;5252 SN;12;;Lombok-Oost;Thermos B.V.;T. Post;03/11/2018;Boomkap;6,4
+Ooftstraat;7158 NU;147;B;Transwijk-Zuid;Aannemingsbedrijf C. spek b.v.;G. Schouten;09/01/2015;Schuur;32
+Weerdsingel W.Z.;7008 CR;143;;Pijlsweerd-Zuid;Aannemingsbedrijf Blokland;D. Kuipers;05/10/2018;Dakkapel;12,8
+Lange Hartsteeg;7470 ZJ;133;C;Langerak;Bouten Bouwbedrijf B.V.;F. Post;25/03/2016;Schuur;32
+Flieruilensteeg;1051 GK;29;;Papendorp;Van den Berg Rietdekkers;R. Koster;15/02/2016;Aanbouw;9,6
+Arkenspoort;9350 HE;53;;Oud Hoograven;Droste Kleinbouw B.V.;O. de Boer;08/11/2017;Aanbouw;16
+Valkstraat;3226 TD;106;;Bedrijventerrein Lageweide;Aannemersbedrijf H J Ruiterkamp B.V.;X. van den Velde;21/08/2015;Dakkapel;32
+Singeldwarsstraat;9777 OX;19;;Tuinwijk-Oost;Doensen bouwbedrijf;J. van Wijk;20/09/2018;Stal;28,8
+Massegast;5884 KX;62;;Sterrenwijk;Fokker-Oomen B.V.;K. Jonker;09/05/2016;Schuur;38,4
+Leidsche Vaart;5258 GV;144;;Dichterswijk;DEBA Vastgoed Onderhoud;T. Jansen;24/03/2016;Gevelrenovatie;28,8
+Weerdsingel W.Z.;4804 SW;28;;Hogeweide;KoningBouw;E. Hermans;09/11/2018;Aanbouw;19,2
+Lombardpoort;4230 KS;138;;Lombok-West;Home Solution;C. Driessen;23/01/2020;Dakkapel;12,8
+Bijlhouwerstraat;9803 WV;71;;Bedrijvengebied Overvecht;Braakman & Pannekoek VOF;E. Kramer;15/10/2017;Verwijderen stal;16
+Sionskameren;6067 IT;53;;Strijkviertel;BOUWBEDRIJF BOSSENBROEK ELSPEET;D. van der Pol;22/07/2017;Schuur;35,2
+Hoogeland;3437 AQ;10;D;Kanaleneiland-Noord;Knol Bouw B.V.;C. Smeets;15/12/2019;Stal;6,4
+Begijnesteeg 2e;8322 EN;12;A;Geuzenwijk;Snijders Bouw B.V.;Y. Smit;18/03/2015;Nieuwbouw;35,2
+Jacobijnestraat;5048 DE;113;;Transwijk-Zuid;Rowebo Aannemersbedrijf;O. Jansen;25/03/2017;Verwijderen stal;16
+Paijenborgsteeg;8514 JV;97;B;Buurtnaam;Bouwbedrijf van Rhenen;F. Maas;04/09/2015;Boomkap;32
+Molenwerfsteeg;3714 JS;88;;Tweede Daalsebuurt en omgeving;Kemper Bouwbedrijf;P. Willems;12/06/2017;Nieuwbouw;32
+Hoogelanden OZ;8671 WP;142;;Tuinwijk-Oost;Rolvink Bouw B.V.;U. Bakker;11/02/2015;Gevelrenovatie;19,2
+Lange Smeestraat;3027 AN;100;;Hogeweide;Kramer's Bouwbedrijf B.V.;Q. Brouwer;10/11/2017;Schuur;32
+Sionskameren;2103 WW;105;;Molenbuurt;Aanpak Bouwservice;A. Evers;13/05/2015;Aanbouw;25,6
+Werfsteeg;1955 SZ;137;;Staatsliedenbuurt;KMK Services Renovatie & Verbouwing;Z. Schipper;26/04/2019;Aanbouw;32
+Zuilenstraat;5091 QE;17;;Geuzenwijk;Hegeman Bouw Partners B.V.;R. van den Velde;24/05/2015;Stal;12,8
+Lange Elisabethstraat;1609 VH;127;;Hogeweide;Bouw en Ontwikkeling du Prie B.V.;F. Peeters;15/02/2018;Dakkapel;16
+Voorstraat;1328 RH;59;;Tuinwijk-Oost;KMK Services;V. van den Broek;01/01/2020;Boomkap;32
+Takstraat;1870 LR;30;;Staatsliedenbuurt;Bouwbedrijf Krijger BV;K. Vermeulen;01/10/2017;Dakkapel;28,8
+Stroomkade;6895 MV;96;;Molenbuurt;Bouwbedrijf G Rook B.V.;A. Hofman;28/11/2019;Nieuwbouw;35,2
+Wagendwarsstraat;9416 NU;148;;Geuzenwijk;Bouwbedrijf Marton B.V.;K. van Veen;22/10/2016;Nieuwbouw;12,8
+Jan Pietersz. Koenstraat;1053 JC;135;B;Bokkenbuurt;ABB BOUW B.V.;N. van der Velden;01/09/2016;Verwijderen stal;32
+Huppeldijk;4373 MK;17;;Oudwijk;Bosch Fa.;H. van den Berg;21/01/2017;Verwijderen stal;35,2
+Leidsche Vaart;4815 QP;29;;Lombok-Oost;Akerbouw Aannemersbedrijf B.V.;F. Prins;23/08/2018;Verwijderen stal;9,6
+Zeedijk;9265 HU;119;B;Vogelenbuurt;Schotgroep Aannemingsbedrijf BV;V. Molenaar;12/06/2020;Nieuwbouw;16
+Domtoren;7487 FO;140;C;Terwijde;H & H Timmer- en Aannemingsbedrijf;Q. van Beek;27/06/2019;Verwijderen stal;22,4
+Maliestraat;7770 VI;80;;Bedrijvengebied Overvecht;Peek Bouw & Infra BV;X. Sanders;07/04/2015;Schuur;35,2
+Boschstraat;2757 SR;23;;Bloemenbuurt;vd Bouwbedrijf Woude B.V.;G. van Wijk;07/05/2017;Schuur;12,8
+Kr. Elleboogsteeg;3429 JP;145;;Tweede Daalsebuurt en omgeving;Keijl Bouwbedrijf;U. Hoekstra;04/07/2019;Aanbouw;38,4
+Geertebolwerk;8019 MW;79;;Tuinwijk-West;Markus C en J en Zn B.V.;U. Post;26/07/2018;Nieuwbouw;9,6
+Kr. Nieuwegracht;3913 AC;15;;Lombok-West;Archangel Bouw B.V.;H. Janssen;11/11/2015;Gevelrenovatie;32
+Malakkastraat;8118 IJ;11;C;Transwijk-Zuid;Koppen Bouw B.V.;V. de Graaf;15/07/2016;Stal;25,6
+Rembrandtkade;9778 FO;25;;Tuindorp-Oost;Witkamp Bouwgroep BV.;V. van de Ven;27/07/2016;Aanbouw;16
+Ledig Erf;5747 AE;74;;Transwijk-Noord;Bouten Bouwbedrijf B.V.;F. Blom;14/09/2015;Boomkap;38,4
+Rotsoord;6382 HK;150;;Nieuw Hoograven;Driemond Bouw B.V.;F. van den Pol;17/04/2018;Aanbouw;12,8
+Korte Jansstraat;4781 FA;52;;Tweede Daalsebuurt en omgeving;UDB Bouwservice;E. van der Linden;31/01/2018;Verwijderen stal;22,4
+Catharijnesingel;3412 IC;131;;Molenbuurt;Bouwbedrijf Buschers B.V.;N. van der Horst;17/05/2017;Schuur;32
+Appelstraat;2202 GD;66;;Tweede Daalsebuurt en omgeving;Kok Lexmond B.V.;G. Koster;24/08/2016;Dakkapel;25,6
+Schutstraat;6342 IQ;72;;Schildersbuurt;Zandspuiten.nl;L. Schouten;18/10/2015;Dakkapel;6,4
+Laurens Reaalstraat;8388 GI;67;B;Schildersbuurt;KoningBouw;H. Huisman;03/05/2020;Schuur;32
+Looierstraat;8435 YS;100;;Rivierenwijk;Bouwbedrijf Van Norel B.V.;R. Janssen;11/08/2016;Stal;6,4
+Koningstraat;9476 JS;51;;Pijlsweerd-Zuid;L&R Bouw VOF;T. de Jong;05/02/2015;Nieuwbouw;16
+Mauritsstraat;3244 XT;108;;Vogelenbuurt;Bouwbedrijf vd Bosch B.V.;A. Bosch;21/01/2018;Aanbouw;38,4
+Stationsdwarsstraat;5777 LZ;46;;Bedrijvengebied Overvecht;Aannemer en bouwbedrijf Aladino;U. Hoekstra;05/10/2019;Dakkapel;19,2
+Begijnesteeg 1e;7084 OE;44;A;Rivierenwijk;GEBR THIJSSEN B.V.;X. van Veen;30/11/2018;Dakkapel;22,4
+Griftstraat;5443 IK;62;;Kanaleneiland-Zuid;Aanpak Bouwservice;C. Willems;16/05/2016;Stal;32
+Wolvenstraat;3556 MM;27;;Lombok-West;Van der Werff Groep;Y. de Leeuw;05/11/2016;Nieuwbouw;28,8
+Kleine Lijnpad 1e;4331 MZ;45;;Bloemenbuurt;Bouwbedrijf van Rhenen;T. Peeters;19/11/2019;Nieuwbouw;22,4
+Leuninggang;2387 LB;15;;Papendorp;Jeroma Bouw;J. de Koning;29/10/2017;Schuur;12,8
+Abraham Dolesteeg;4995 AB;60;;Langerak;Kootstra-vd Veen VOF;H. van Loon;06/05/2019;Boomkap;32
+Frederik Hendrikstraat;3532 DJ;56;;Staatsliedenbuurt;Akerbouw Aannemersbedrijf B.V.;P. van Dijk;17/07/2015;Nieuwbouw;16
+Soendastraat;8227 AK;26;;Schildersbuurt;Bouwbedrijf Th. van Weert b.v.;R. Evers;10/06/2018;Dakkapel;22,4
+Sterrenburg;7491 KW;102;A;Lunetten-Zuid;Bouwservice Harberink;M. Jonker;10/07/2015;Schuur;35,2
+Haagstraat;3454 UM;112;C;Molenbuurt;Stabo Bouw B.V.;U. van der Heyden;20/07/2018;Gevelrenovatie;22,4
+Twijnstraat;4170 FI;18;;Tuinwijk-West;Bouwonderneming Kuiper Blijham B.V.;S. Groen;10/02/2020;Schuur;28,8
+Wolfaartsteeg;3369 WL;13;D;Nieuw Hoograven;Eshuis & Zn Aannemersbedrijf Fa J;Q. Mol;22/05/2019;Boomkap;22,4
+Adriaanstraat;2849 DD;141;;Bedrijventerrein Lageweide;Faberbouw;E. Schouten;25/01/2015;Dakkapel;12,8
+Noteboomenlaan;8711 FP;85;;Langerak;Aannemingsbedrijf J vd Windt B.V.;L. van de Brink;19/02/2017;Dakkapel;6,4
+Kruisdwarsstraat;9361 XX;8;A;Nieuw Hoograven;Hoedemakers bouw en ontwikkeling;B. van der Laan;28/02/2019;Dakkapel;35,2
+Kanonstraat;6758 XG;133;;Tuinwijk-West;Knol Bouwbedrijf Peter B.V.;M. de Vos;04/04/2020;Gevelrenovatie;32
+Pauwstraat;1984 CI;98;D;Sterrenwijk;Louter Aannemingsbedrijf K;K. van der Ven;24/03/2019;Verwijderen stal;9,6
+Haagstraat;8108 YJ;21;D;Molenbuurt;Bodavi Bedrijfshallenbouw;N. van der Laan;19/02/2019;Gevelrenovatie;9,6
+Vredesteeg;6150 NH;146;;Papendorp;Van Wijnen Sittard B.V.;A. Willemsen;17/05/2015;Dakkapel;28,8
+Vinkenburgstraat;5043 FK;33;;Pijlsweerd-Noord;Koertse Bouw en Onderhoud C;U. de Leeuw;20/01/2017;Verwijderen stal;6,4
+Boorstraat;7351 GZ;91;C;Zuilen-Noord;Bouwbedrijf Marton B.V.;N. Groen;17/11/2017;Verwijderen stal;28,8
+Padangstraat;2685 OL;83;;Oud Hoograven;Bezemer Bouw B.V.;V. Mol;07/04/2019;Schuur;32
+Sumatrastraat;3728 UW;54;;Oudwijk;Bouwbedrijf P Ott BV;D. Huisman;11/08/2018;Schuur;25,6
+Krielsteeg;2970 IR;101;;Nieuw Hoograven;Aannemersbedrijf Kappert Doetinchem B.V.;E. Sanders;15/11/2016;Verwijderen stal;32
+Reestraat;6019 ZI;76;;Zuilen-Noord;Smit Aannemersbedrijf VOF Bart;Y. van der Meulen;31/07/2015;Schuur;35,2
+Ezelsdijk;8243 JM;33;;Lombok-Oost;Holleman & Zn Santpoort B.V.;E. van den Heuvel;28/03/2015;Dakkapel;6,4
+Kindgenshaven;3180 HA;81;;Oudwijk;Hendrikse Bouw;I. de Bruyn;16/02/2020;Aanbouw;28,8
+Zaagstraat;1405 ZQ;44;;Tuindorp-Oost;J.Verschoor Bouw B.V.;U. de Jonge;21/08/2015;Verwijderen stal;19,2
+Hofje van Zessen;3941 QC;4;;Pijlsweerd-Zuid;Tuerlings Bouw;U. van Loon;25/06/2016;Gevelrenovatie;12,8
+Boogstraat;7618 VN;143;;Bedrijventerrein Lageweide;Wijen-Bouw B.V.;V. Post;23/02/2017;Boomkap;25,6
+M.H. Trompstraat;8317 RH;44;;Ondiep;Bouwbedrijf van der Sloot;P. van den Broek;19/09/2015;Boomkap;35,2
+Kievitdwarsstraat;9652 NR;49;;Dichterswijk;Smit Aannemersbedrijf VOF Bart;W. Kok;01/10/2016;Boomkap;19,2
+Elisabethsteeg;5023 MN;99;;Bedrijvengebied Overvecht;Bouwonderneming Jager B.V.;Q. van Beek;19/11/2017;Stal;19,2
+Schelpstraat;1573 GF;71;;Kanaleneiland-Noord;Aannemersbedrijf de Bouwmeesters.net;M. van Loon;20/01/2018;Schuur;35,2
+Beverstraat;2191 QQ;26;;Bokkenbuurt;Schotgroep Aannemingsbedrijf BV;S. van de Berg;19/03/2020;Stal;28,8
+Groote Eligensteeg;2017 QA;23;;Geuzenwijk;Bouwbedrijf Terluin B.V.;G. van de Velde;14/08/2018;Aanbouw;16
+Looierstraat;8816 PW;49;;Oudwijk;Klussenbedrijf Ko Mes;M. Veenstra;21/07/2017;Gevelrenovatie;6,4
+Drakenburgsteeg;1398 TN;17;B;Transwijk-Zuid;H Kroon Aannemersbedrijf B.V.;J. Kuiper;31/07/2018;Schuur;28,8
+Abstederdijk;5840 GI;135;;Oud Hoograven;Van Santen & zn B.V.;L. van Dam;14/08/2016;Boomkap;35,2
+Loefbergmakerstraat;3682 XM;12;A;Tweede Daalsebuurt en omgeving;Vios Bouw en Onderhoud Amsterdam B.V.;W. van Veen;01/08/2018;Schuur;32
+Papaverstraat;1417 JW;80;D;Tuinwijk-Oost;Hofstra Hulshof Bouw B.V.;B. Wolters;20/03/2018;Gevelrenovatie;32
+Piet Heinstraat;2602 TK;135;;Transwijk-Noord;Hemmen Bouw C.V.;D. Bosch;01/03/2020;Gevelrenovatie;38,4
+Stijfselsteeg;1918 BO;78;A;Terwijde;Bouwbedrijf Chris Deen B.V.;Y. Jonker;24/04/2017;Dakkapel;9,6
+Moutstraat;3974 YO;12;;Lunetten-Zuid;Kemper Bouwbedrijf;C. van den Pol;11/01/2020;Dakkapel;12,8
+Vossegatschedijk;7272 DH;15;D;Rivierenwijk;Bouw- en Handelsmij Van Wingerden B.V.;P. van der Laan;29/10/2018;Gevelrenovatie;9,6
+Plompetorenbrug;9332 AE;95;A;Nieuw Hoograven;Gerard Heij Bouw en Timmerbedrijf;B. Vink;01/02/2018;Dakkapel;19,2
+Braamstraat;6660 KQ;66;;Dichterswijk;John Braas Bouwbedrijf B.V.;P. Hoekstra;02/10/2016;Gevelrenovatie;9,6
+Vlijtstraat;9183 DK;30;D;Tuinwijk-West;Uw Totaalaannemer bv;Q. van der Velde;22/05/2016;Aanbouw;32
+Griftstraat;8113 CS;92;;Transwijk-Noord;Hoedemakers bouw en ontwikkeling;P. Mol;30/03/2016;Dakkapel;19,2
+Schoolplein;2595 HX;59;;Tuinwijk-Oost;Meet en Regeltechniek de Jong;U. Maas;27/04/2018;Boomkap;38,4
+Doornboomstraat;6155 BJ;55;;Ondiep;Hecon Bouwgroep;N. van de Velde;07/08/2015;Stal;12,8
+Riemstraat;3426 FJ;63;;Papendorp;Wolbers Bouw- en Renovatiebedrijf;N. Peeters;15/01/2018;Nieuwbouw;22,4
+Korte Rietsteeg;9049 AP;92;C;Hogeweide;Bouwbedrijf A J van Hilst B.V.;M. Schipper;10/10/2017;Gevelrenovatie;9,6
+Plompetorenbrug;7996 NR;86;;Schildersbuurt;Rowebo Aannemersbedrijf;R. Sanders;19/09/2017;Aanbouw;12,8
+Kl. Geertekerkhof;3394 DR;144;;Bedrijvengebied Overvecht;Planubouw B.V.;U. van den Bosch;22/07/2015;Nieuwbouw;28,8
+Pauwstraat;7609 LJ;80;;Oudwijk;Gebr Griekspoor B.V.;D. Mol;03/11/2016;Dakkapel;35,2
+Huppeldijk;9194 RU;27;;Buurtnaam;Wösten Bouwservice;H. Dekker;21/10/2016;Aanbouw;28,8
+Jacobskerksteeg;9261 OH;7;;Tuinwijk-West;Dickhoff-Spindler;K. van der Velden;25/09/2016;Verwijderen stal;38,4
+Noteboomenlaan;9197 VU;39;C;Pijlsweerd-Zuid;Bouwbedrijf van Grootveld B.V.;D. Veenstra;16/10/2019;Boomkap;22,4
+Nicolaas Beetsstraat;2366 GC;131;;Oudwijk;Hopman Bouw b.v.;Q. Vos;06/01/2019;Aanbouw;32
+Kaatstraat;2253 XA;144;D;Tuinwijk-Oost;Bouwbedrijf van Grootheest B.V.;R. Hoekstra;19/02/2020;Verwijderen stal;19,2
+Inundatiekade;5701 OG;123;;Staatsliedenbuurt;M J Oomen riool- en betontechniek B.V.;K. Kok;24/08/2019;Boomkap;38,4
+Keistraat;3687 SU;13;;Tuinwijk-West;L vd Wal en Zn B.V.;A. van der Berg;04/07/2016;Gevelrenovatie;28,8
+Vereenigingdwarsstraat;5341 SZ;55;A;Rivierenwijk;Dickhoff-Spindler;X. Mulder;20/03/2015;Nieuwbouw;9,6
+Varkenmarkt;2838 ON;142;;Sterrenwijk;Bouwbedrijf Postma Bergharen;H. Hoekstra;22/05/2019;Nieuwbouw;28,8
+Boterstraat;4985 FR;78;;Lombok-West;T yankah TimmerBedrijf;N. van den Bosch;07/09/2017;Nieuwbouw;32
+Jan van Scorelstraat;9620 JI;37;B;Rivierenwijk;Bouwbedrijf Boot B.V.;Z. Vink;02/09/2017;Stal;16
+Kersstraat;9642 XL;51;;Lunetten-Noord;Strukton Civiel Noord & Oost;B. Martens;18/02/2015;Verwijderen stal;22,4
+Willemstraat;2276 HK;4;;Staatsliedenbuurt;SBC Aannemers B.V.;O. van der Laan;12/07/2018;Boomkap;9,6
+Kleine Slachtsteeg;6450 KS;3;;Kanaleneiland-Zuid;vd Bouwbedrijf Fliert B.V.;M. Jacobs;19/06/2015;Schuur;22,4
+Moesstraat;8423 WZ;1;;Staatsliedenbuurt;Bouwbedrijf de Driehoek bv;Z. van der Heyden;06/01/2020;Dakkapel;22,4
+Takstraat;6297 WE;68;B;Rivierenwijk;Veldwachter Aannemersbedrijf B.V.;O. Koning;23/03/2018;Dakkapel;28,8
+Baansteeg 1e;1756 FO;102;B;Bedrijvengebied Overvecht;Veldwachter Aannemersbedrijf B.V.;C. van Beek;31/10/2015;Gevelrenovatie;22,4
+Minstraat;3120 YZ;83;B;Tuinwijk-Oost;Sirre Aannemersbedrijf A;Y. de Wit;04/01/2017;Aanbouw;25,6
+Pietersplein;8254 IX;83;;Pijlsweerd-Zuid;Hoogstraten Wegenbouw B.V.;H. de Jong;02/04/2017;Boomkap;12,8
+Blokstraat;3367 QC;134;;Watervogelbuurt;Aannemersbedrijf Jannes Blomberg;P. de Vries;16/07/2018;Stal;12,8
+Zuilensteeg;3577 PF;59;;Kanaleneiland-Noord;ABC loodgieters;T. Martens;17/07/2017;Dakkapel;22,4
+Janskerkhof;2430 NB;82;A;Transwijk-Zuid;Balemans Bouwbedrijf B.V.;I. de Leeuw;02/11/2016;Boomkap;19,2
+Oude Kerkstraat;3011 MD;69;;Lombok-Oost;Wevers en Zn Aannemersbedrijf Fa G;G. van de Pol;03/05/2020;Stal;25,6
+Hamsteeg;2037 RY;63;;Kanaleneiland-Noord;Aannemersbedrijf Meeusen en Zn B.V.;N. Postma;30/03/2019;Boomkap;16
+Potterstraat;8911 DJ;126;;Bedrijventerrein Lageweide;NRB Bouw B.V.;H. Koster;17/05/2019;Gevelrenovatie;19,2
+Jacobskerkstraat;1114 LG;32;;Lunetten-Zuid;Ippel Civiele Betonbouw BV;R. van Veen;19/03/2016;Dakkapel;38,4
+Helling;5509 BA;94;;Terwijde;Doensen bouwbedrijf;T. de Vries;02/06/2015;Nieuwbouw;38,4
+Achterstraat 2e;7300 OW;76;;Bedrijventerrein Lageweide;Bouwbedrijf van der Sloot;S. Meyer;14/03/2019;Boomkap;6,4
+Bankaplein;1855 DL;140;;Oudwijk;Driemond Bouw B.V.;R. Kuiper;11/05/2016;Aanbouw;32
+Wijde Watersteeg;6827 PD;18;;Langerak;Tijdhof-Hobema aannemers bv;E. van den Pol;20/07/2015;Verwijderen stal;9,6
+Leeuwstraat;2859 BH;90;;Staatsliedenbuurt;Bouwservice Harberink;Q. de Haan;26/03/2019;Aanbouw;9,6
+Doornboomstraat;5682 PW;53;;Langerak;Hoornstra Bouwbedrijven B.V.;W. Blom;08/06/2020;Boomkap;38,4
+Catharijnesingel;6789 HJ;33;;Transwijk-Noord;Reitsma Bouw;I. Molenaar;31/03/2015;Schuur;32
+Visscherssteeg;5730 OL;140;;Nieuw Hoograven;DOVER Verkeersmaatregelen;U. van Dam;28/12/2018;Nieuwbouw;19,2
+Antoniedijk;8439 UT;39;;Staatsliedenbuurt;Bouwpartners B.V.;F. van der Heijden;09/03/2015;Boomkap;32
+Servetstraat;8461 ZQ;11;C;Bloemenbuurt;Home Solution;B. Bosch;28/12/2016;Boomkap;12,8
+Boschstraat;3573 AB;101;C;Tweede Daalsebuurt en omgeving;Aannemingsbedrijf E Bonneveld B.V.;N. Prins;22/12/2017;Nieuwbouw;25,6
+Zandstraat;2930 OC;3;B;Zuilen-Noord;Bouwbedrijf vd Heijden B.V.;V. Maas;04/02/2020;Boomkap;32
+Koningstraat;5580 XQ;123;B;Bokkenbuurt;Bee Pee HOUT bouw;A. van de Velde;11/10/2015;Gevelrenovatie;32
+Oudegracht (Weerd);9795 DJ;86;;Dichterswijk;Bouwmaatschappij Visser en Mol B.V.;T. Smit;08/08/2019;Nieuwbouw;38,4
+Kroonsteeg;2731 MW;125;;Zuilen-Noord;Bouwbedrijf vd Horst B.V.;E. Hermans;31/05/2020;Stal;9,6
+Turfstraat;4712 RF;30;;Ondiep;Traas en Ovaa Infra B.V.;V. de Bruyn;25/01/2019;Schuur;9,6
+Stroomkade;3433 XN;143;B;Bedrijventerrein Lageweide;bmd bouwenmetdaadkracht;L. van den Velde;24/06/2019;Stal;28,8
+Paardenveld;8872 QS;114;;Pijlsweerd-Noord;Bouwbedrijf Gebr. van Dorland;G. Kuiper;17/03/2017;Schuur;32
+Leidsche Veer;9506 QT;77;;Sterrenwijk;Danilith Delmulle Bouw B.V.;J. van den Pol;27/04/2016;Schuur;12,8
+Rozenhofje;7882 UC;68;C;Lombok-West;Gebr De Koning B.V.;W. Meyer;14/11/2017;Stal;19,2
+Jacobijnestraat;6438 WC;149;B;Bedrijvengebied Overvecht;Boersma Aannemersbedrijf B.V.;T. van den Heuvel;07/05/2018;Gevelrenovatie;9,6
+Reguliersteeg;3672 MU;117;;Langerak;ZekerBouw;P. Brouwer;22/10/2017;Aanbouw;35,2
+Wijckstraat (van);5350 OO;70;;Transwijk-Noord;Aannemersbedrijf Hekman Vroomshoop B.V.;U. van der Pol;07/12/2018;Dakkapel;9,6
+Dijkstraat;8848 VI;81;B;Tuinwijk-West;Bouwgroep Van der Pas;B. van de Meer;14/05/2017;Nieuwbouw;16
+Kersstraat;3751 GL;58;;Zuilen-Noord;J.Verschoor Bouw B.V.;R. Hoekstra;28/05/2020;Dakkapel;9,6
+Delistraat 2e;5090 QH;18;;Dichterswijk;ELBERSE BOUWBEDRIJF B.V.;L. Janssen;25/06/2018;Nieuwbouw;6,4
+Mauritsstraat;4029 RK;97;C;Lunetten-Noord;Van den Heuvel;O. Prins;01/07/2015;Aanbouw;32
+Bijlhouwerstraat;2155 OU;103;;Hogeweide;Koelewijn Bouw B.V.;L. van Dongen;10/04/2020;Schuur;38,4
+Billitonstraat;2346 AP;142;;Dichterswijk;Tuerlings Bouw;A. van Dijk;26/01/2019;Aanbouw;19,2
+Vinkenkade;2282 PX;35;;Nieuw Hoograven;Bouw- en Handelsmij Van Wingerden B.V.;B. van Loon;07/07/2019;Aanbouw;32
+Wijckstraat (van);2522 OK;88;;Tuinwijk-West;Bouwbedrijf Maalderink Reusken;F. van Wijk;02/09/2015;Schuur;6,4
+Runnebaan;5021 VN;126;;Bokkenbuurt;Radius Bouwbedrijf;B. Schipper;05/07/2019;Dakkapel;35,2
+Moesstraat;5568 MD;48;;Pijlsweerd-Noord;Bouwbedrijf Mario Wesseling;I. van der Berg;26/07/2017;Schuur;25,6
+Zonstraat;6120 HI;121;;Lombok-Oost;Wagemakers Bouwbedrijf B.V.;O. van den Velde;29/10/2019;Stal;16
+Imhoffstraat (van);9699 DD;71;D;Hogeweide;MPO Vastgoed B.V.;L. Wolters;16/08/2019;Gevelrenovatie;19,2
+Covelsteeg;9550 VH;70;B;Molenbuurt;Benko B.V.;L. Kuiper;16/04/2016;Nieuwbouw;19,2
+Westerkade;1519 KQ;98;B;Lunetten-Zuid;Bouwbedrijf Hissel;Q. Koning;10/09/2015;Schuur;9,6
+Werfsteeg;5110 QF;53;C;Dichterswijk;Vema Schiedam B.V.;A. Post;14/12/2017;Stal;32
+Middellaan;6895 LW;83;;Staatsliedenbuurt;A.Maas Bouw B.V.;O. Dijkstra;14/11/2017;Nieuwbouw;22,4
+Wijde Watersteeg;8430 DL;22;C;Tuinwijk-Oost;HediBouw;Z. van der Meulen;10/08/2016;Stal;38,4
+Wolfaartsteeg;1651 ZQ;24;A;Pijlsweerd-Noord;HaBé Bouwen in Stijl B.V.;U. de Boer;26/03/2016;Gevelrenovatie;16
+Kleine Eligensteeg;8558 LI;13;D;Pijlsweerd-Noord;Scheerder Bouwbedrijf B.V.;X. van Dam;28/03/2016;Dakkapel;28,8
+Stationsplein;7233 TH;5;;Ondiep;van Stralen & Gremmé;I. van Loon;01/12/2019;Dakkapel;9,6
+Zaagmolenkade;3370 BT;47;;Tuinwijk-Oost;Prachtig Huis;Y. van de Veen;01/10/2019;Schuur;9,6
+Florastraat;9563 JX;106;B;Schildersbuurt;Albert Martinus Aannemingsbedrijf;X. van der Meulen;07/06/2019;Schuur;22,4
+Graanstraat;2833 GX;63;;Geuzenwijk;Bouwbedrijf Tadema Sneek;D. van den Berg;05/10/2016;Dakkapel;16
+Nauwe Blindesteeg;1376 KB;80;;Langerak;Aannemingsbedrijf Janssen-Groesbeek B.V.;P. Veenstra;07/11/2017;Aanbouw;28,8
+Wittevrouwenstraat;9854 EH;57;;Sterrenwijk;vof de Bouwmaat;I. Schipper;22/03/2015;Gevelrenovatie;38,4
+Elisabethsteeg;8676 JB;46;;Kanaleneiland-Noord;Bouwbedrijf Baltussen;Y. van de Pol;11/06/2017;Stal;32
+Abstederdijk;3817 RJ;145;;Pijlsweerd-Noord;Krielen J C M;P. de Bruin;31/12/2018;Gevelrenovatie;32
+Springweg;4780 ZN;148;B;Pijlsweerd-Zuid;Adema Bouwbedrijf VOF D;O. Evers;15/06/2019;Aanbouw;28,8
+Vinkenburgstraat;1010 TW;73;;Transwijk-Noord;vd Veen bouw;M. Kuiper;30/10/2017;Gevelrenovatie;16
+Papaverstraat;3549 NU;8;;Staatsliedenbuurt;Aannemersbedrijf De Bouwhorst;R. Smits;26/04/2018;Aanbouw;16
+Kwartelstraat;4469 IU;36;;Nieuw Hoograven;T & W Bouw;L. de Bruyn;28/09/2015;Schuur;12,8
+Mulderstraat;9091 HD;80;B;Lunetten-Noord;Bouwbedrijf Pennings B.V.;D. de Jong;28/02/2017;Gevelrenovatie;28,8
+Palmstraat;4069 SU;88;B;Sterrenwijk;Aannemingsbedrijf BOS;X. Smits;17/02/2016;Boomkap;22,4
+Heemskerkstraat;6569 FE;49;;Tuindorp-Oost;Bouwbureau Sjaak Fieman;V. van Doorn;20/01/2018;Schuur;35,2
+Gansstraat;7431 OB;13;;Transwijk-Noord;Gerritsen Ulft B.V.;J. van der Wal;22/11/2017;Schuur;16
+Catharijnesingel;4173 JB;103;;Molenbuurt;Bouwbedrijf Maalderink Reusken;S. Visser;20/10/2017;Boomkap;22,4
+Vleutensche Weg;3548 UR;84;;Transwijk-Noord;Kleinbouw Twente B.V;L. van de Meer;01/01/2016;Dakkapel;12,8
+Prinsenhof;6789 SE;57;;Nieuw Hoograven;Home Solution;E. van de Wal;14/11/2018;Boomkap;6,4
+Lauwerecht;9073 GL;16;;Kanaleneiland-Noord;Boersma Aannemersbedrijf B.V.;Y. de Vos;22/09/2017;Verwijderen stal;16
+Wilhelmina Park;3061 PJ;1;;Pijlsweerd-Noord;J H van Heur Bouwbedrijf B.V.;I. van de Veen;22/06/2017;Stal;9,6
+Roodepoort;2545 XW;47;;Lombok-West;Bouwmaatschappij Vuurboom B.V.;W. Gerritsen;26/09/2017;Gevelrenovatie;32
+Looierstraat;9083 EX;41;;Molenbuurt;Aannemer Willemsz bouwbedrijf b.v.;H. Kok;24/10/2016;Verwijderen stal;35,2
+Eikenboomstraat;7499 KY;33;;Sterrenwijk;Uphoff Timmer-Bouwbedrijf.nl;L. de Bruyn;07/12/2015;Dakkapel;28,8
+Buurkerksteeg 3e;1032 CK;23;;Bokkenbuurt;UDB Bouwservice;M. Huisman;19/05/2017;Stal;35,2
+Jan Houtmanstraat;4234 KG;117;;Lombok-Oost;Driemond Bouw B.V.;A. de Jonge;10/09/2016;Aanbouw;38,4
+Catharijnekade;6142 LM;146;C;Transwijk-Zuid;Vosbouw Vroomshoop B.V.;H. van Dijk;27/02/2016;Aanbouw;9,6
+Mariastraat;2885 DI;147;A;Lunetten-Noord;Aannemingsbedrijf Nees De Jong B.V.;U. van Doorn;20/10/2019;Nieuwbouw;19,2
+Lekstraat;2242 GU;145;;Lombok-West;Koers Groep BV, vestiging Leiden;F. de Wit;01/03/2016;Gevelrenovatie;16
+Kloksteeg;1120 PD;137;A;Tuinwijk-West;van Bouwbedrijf Geresteijn;J. van der Velde;05/03/2015;Nieuwbouw;32
+Vaartschestraat;8207 AE;10;;Hogeweide;Home Solution;Q. de Vos;20/12/2018;Stal;35,2
+Muntsteeg;7126 AL;111;B;Nieuw Hoograven;Reimerswaal Aannemingsbedrijf;Q. Willems;21/06/2015;Nieuwbouw;19,2
+Koningslaan;7826 SG;67;D;Lombok-West;A.Maas Bouw B.V.;F. Vink;29/07/2018;Gevelrenovatie;38,4
+Lange Hamstraat;6625 NT;103;;Sterrenwijk;Bakels en Ouwerkerk Bouwgroep;L. de Vries;13/02/2018;Aanbouw;25,6
+Hoogelanden WZ;3651 RG;109;;Oudwijk;Roorda en Veldman Aannemersbedrijf;C. van der Berg;28/04/2015;Verwijderen stal;12,8
+Koningstraat;4931 LL;120;D;Geuzenwijk;Bramer B.V.;P. Kramer;02/07/2019;Nieuwbouw;9,6
+Elimos. V. Oud Munst.;2651 KJ;85;C;Geuzenwijk;Meijer-Oude Lashof Bouwbedrijf;J. van der Velden;06/05/2016;Aanbouw;28,8
+Voorstraat;6860 LH;60;B;Lunetten-Zuid;Bouwmaatschappij Vuurboom B.V.;F. Bakker;08/08/2019;Boomkap;38,4
+Hagelstraat;3422 AY;39;C;Schildersbuurt;Mens-Zeist Vastgoedonderhoud B.V.;E. Vink;25/09/2019;Boomkap;22,4
+Horstdijk;3718 EK;141;;Lunetten-Zuid;Bouwbedrijf Pennings B.V.;U. Hermans;28/06/2019;Nieuwbouw;12,8
+Hoogt;8164 PY;35;;Lunetten-Zuid;Schipper&Paaimans Bouwgroep;P. Jacobs;07/08/2015;Dakkapel;22,4
+Rembrandtkade;6490 NS;55;;Transwijk-Zuid;Reusken Bouw B.V.;F. van der Berg;01/07/2017;Stal;25,6
+Burgstraat;7927 KT;134;;Pijlsweerd-Noord;Aannemingsbedrijf Ri-Jo B.V.;M. Boer;10/12/2019;Dakkapel;12,8
+Bokstraat;8090 PS;35;A;Buurtnaam;Bouwbedrijf Terluin B.V.;X. van de Meer;04/02/2020;Schuur;12,8
+Nieuwe Koekoekstraat;1778 XW;115;;Transwijk-Noord;Allure Bouw B.V.;P. de Ruiter;23/12/2017;Stal;12,8
+Roggestraat;9696 XH;100;B;Bedrijventerrein Lageweide;GP Groot infra en engineering;Q. van Doorn;21/11/2015;Stal;28,8
+Trans;1014 FK;52;;Bloemenbuurt;REBBouw;B. van der Veen;02/01/2018;Dakkapel;9,6
+Walsteeg;7279 MW;132;;Kanaleneiland-Zuid;Koers Bouw;Z. van Wijk;12/06/2019;Verwijderen stal;12,8
+Oudkerkhof;1085 UC;11;;Strijkviertel;Aannemingsmij Vink B.V.;G. Scholten;24/06/2019;Stal;16
+Leeuwstraat;1724 NV;144;C;Tuindorp-Oost;Beelen Huiswerk;Y. de Groot;31/01/2017;Aanbouw;12,8
+Voetiusstraat;6528 VV;64;;Langerak;Jansen Huybregts B.V.;C. Schipper;15/11/2018;Gevelrenovatie;35,2
+Laan van Chartroise;5709 KF;47;D;Lunetten-Noord;Kuperus bouw;N. de Lange;12/01/2020;Stal;12,8
+Gerard Doustraat;6915 FC;65;C;Bokkenbuurt;Proper Aannemersbedrijf B.V.;P. Willems;22/03/2020;Stal;28,8
+Paarlstraat;4442 SN;108;;Sterrenwijk;Bouw- Aannemersbedrijf Hako Bouw;S. van Vliet;22/07/2017;Dakkapel;9,6
+Blauwkapelscheweg;9551 IY;34;;Bedrijventerrein Lageweide;Bouw- en Handelsmij Van Wingerden B.V.;G. Schipper;27/07/2016;Boomkap;25,6
+Justus van Effenstraat;4149 DB;25;;Lunetten-Zuid;van Bouwbedrijf Geresteijn;C. Postma;09/04/2019;Boomkap;19,2
+Mariaplaats;9557 ML;22;;Transwijk-Noord;Bouwbedrijf Lok;S. van den Velde;25/11/2017;Nieuwbouw;12,8
+Tiendstraat;2811 QH;95;;Rivierenwijk;De Leeuw B.V.;E. van de Veen;20/12/2017;Boomkap;35,2
+Ledig Erf;4851 IY;16;B;Ondiep;Bouwbedrijf WESTLAND constructions BV;E. Kuypers;10/11/2017;Schuur;16
+Haagstraat;5131 VB;26;;Nieuw Hoograven;Vosbouw Vroomshoop B.V.;Z. van der Horst;18/10/2015;Stal;12,8
+Zakkendragersteeg;4967 UL;59;D;Bloemenbuurt;Aannemingsbedrijf Project Rotterdam B.V.;P. van de Veen;11/11/2015;Verwijderen stal;22,4
+Elisabethsteeg;3402 RG;26;;Lunetten-Noord;Aannemersbedrijf Jannes Blomberg;U. de Jonge;28/02/2019;Gevelrenovatie;28,8
+Alphenplein (van);9481 DI;58;;Hogeweide;Composiet Prefab Bouw;F. van der Velden;15/04/2017;Aanbouw;9,6
+Bladstraat;4146 XD;96;;Watervogelbuurt;vof de Bouwmaat;V. de Bruin;04/04/2017;Nieuwbouw;25,6
+Koningslaan;8133 YO;101;;Hogeweide;Gerwers;D. van der Berg;24/01/2019;Schuur;25,6
+Daelstraat;8199 MF;47;;Transwijk-Zuid;Het Charles Maakt;L. Martens;19/07/2016;Aanbouw;25,6
+Visschersplein;2937 NN;54;D;Tuinwijk-Oost;vd Bouwbedrijf Fliert B.V.;P. Driessen;02/04/2016;Verwijderen stal;12,8
+Mariahoek;5443 QD;92;;Tuinwijk-West;Bouwbedrijf Krijger BV;K. de Vos;31/05/2017;Nieuwbouw;16
+Leeuwstraat;5663 FW;114;A;Sterrenwijk;Martens Aannemingsbedrijf B.V.;X. Mulder;03/04/2016;Dakkapel;28,8
+Nobelstraat;9329 KD;45;;Schildersbuurt;Bouw- Aannemersbedrijf Hako Bouw;H. Maas;31/07/2016;Dakkapel;16
+Westerdijk;1677 ZB;25;D;Lunetten-Noord;aannemersbedrijf pinckers;W. Bosman;06/12/2015;Schuur;35,2
+Hulststraat;2674 XB;109;;Lunetten-Noord;SHP Bouwbedrijven;W. Koster;25/03/2019;Aanbouw;25,6
+Horstdijk;9260 HO;63;;Buurtnaam;Concept Wonen;B. Martens;17/01/2020;Gevelrenovatie;38,4
+Kweekstraat;2828 WQ;57;C;Transwijk-Noord;Kramer's Bouwbedrijf B.V.;V. van Wijk;11/01/2020;Aanbouw;32
+Takstraat;5151 US;93;;Buurtnaam;Bakels en Ouwerkerk Bouwgroep;R. van der Laan;22/02/2018;Aanbouw;35,2
+Hertestraat;5404 SH;27;;Tweede Daalsebuurt en omgeving;Klaassen Bouwmaatschappij Dinxperlo B.V.;D. Boer;10/05/2016;Nieuwbouw;28,8
+Hanengeschrei;9184 KR;144;D;Bloemenbuurt;A Huurdeman Bouwbedrijf B.V.;C. Vink;06/09/2018;Boomkap;12,8
+Braamstraat;8963 YN;25;;Transwijk-Noord;Warmes Aannemersbedrijf B.V.;E. Scholten;16/01/2015;Aanbouw;12,8
+M.A. de Ruijterstraat;6391 JD;108;C;Langerak;Lieftink Geveltechniek BV;K. van de Meer;19/01/2020;Dakkapel;9,6
+Stationsdwarsstraat;3140 XS;89;B;Rivierenwijk;Verkammen Aannemers- en Timmerbedrijf W;M. Postma;11/05/2015;Aanbouw;35,2
+Heemskerkstraat;9694 YM;137;;Bokkenbuurt;ptc-opleidingen;C. Smits;18/07/2016;Dakkapel;16
+Oosterbuurt;3037 NL;47;C;Terwijde;Dekker Bouw- en Timmerbedrijf H;I. Hoekstra;16/09/2019;Schuur;6,4
+Jansdam;7081 LK;72;;Tuindorp-Oost;Hecon Bouwgroep;W. van Leeuwen;15/12/2018;Stal;6,4
+Covelsteeg;3413 ZN;112;;Hogeweide;Steta Bouw en Interieur op maat bv;G. Koning;08/02/2019;Gevelrenovatie;16
+Corn. Evertsenstraat;7910 RT;81;;Geuzenwijk;Klussenbedrijf Veran;T. Smit;21/03/2018;Aanbouw;6,4
+Concordiastraat;9421 OL;115;B;Zuilen-Noord;Spreen & Zn Fa B;P. Jonker;04/03/2018;Nieuwbouw;12,8
+Zandhofschestraat;1959 IW;6;A;Kanaleneiland-Zuid;HABO GWW B.V.;J. van den Velde;14/09/2015;Aanbouw;19,2
+Jacobssteeg;6011 BB;84;;Bokkenbuurt;Vervobouw;U. van de Brink;16/12/2019;Gevelrenovatie;25,6
+Kleine Tuinstraat;8564 UC;108;A;Bedrijvengebied Overvecht;Leenman Bouw B.V.;H. van de Ven;22/08/2018;Dakkapel;6,4
+Lange Smeestraat;8586 UH;54;;Ondiep;Slim Bouwen Assen;G. Visser;13/09/2019;Boomkap;38,4
+Korte Nieuwstraat;9692 UO;62;;Lombok-West;G-vloeren Gietvloeren;X. Scholten;16/01/2016;Nieuwbouw;22,4
+Jeruzalemsteeg;2826 QT;73;;Rivierenwijk;Fokker-Oomen B.V.;R. Prins;25/01/2020;Nieuwbouw;38,4
+Massegast;7854 PS;75;;Lombok-West;Klein Gunnewiek Bouwbedrijf;C. Smit;02/11/2016;Aanbouw;38,4
+Gasthuissteeg;7787 DD;105;A;Pijlsweerd-Noord;Aannemersbedrijf A J H Zwart B.V.;D. Veenstra;21/06/2019;Nieuwbouw;32
+Kleine Lijnpad 1e;7581 QM;87;A;Bedrijvengebied Overvecht;Fischer Aannemingsbedrijf;I. Timmermans;28/08/2016;Schuur;25,6
+Zonstraat;9824 YT;120;;Bedrijventerrein Lageweide;Minibouw;L. Blom;18/06/2017;Aanbouw;6,4
+Beekstraat;2965 BS;63;;Bloemenbuurt;Aannemingsbedrijf Stijkel Bouw B.V.;F. Brouwer;08/06/2015;Verwijderen stal;28,8
+Graanstraat;5002 XM;150;;Dichterswijk;Bouwbedrijf Barten B.V.;K. de Haan;15/03/2020;Aanbouw;25,6
+Runnebaan;6681 UX;53;;Transwijk-Zuid;Spreen & Zn Fa B;A. Scholten;01/09/2018;Stal;32
+Laan van Chartroise;3659 UU;64;;Tuinwijk-West;Bouwonderneming Kuiper Blijham B.V.;P. van der Wal;23/07/2017;Dakkapel;38,4
+Jacobskerksteeg;6750 MV;129;;Staatsliedenbuurt;F.W. Onrust Vastgoedonderhoud;U. van de Velden;10/01/2016;Schuur;6,4
+Mariaplaats;6255 ZS;22;D;Rivierenwijk;De Wit-Besseling B.V.;W. Evers;25/11/2017;Boomkap;25,6
+Bijlhouwerstraat;9639 GX;67;;Bokkenbuurt;Bouwonderneming Jager B.V.;L. Blom;20/01/2020;Stal;6,4
+Sterrenhof;3492 NU;113;;Molenbuurt;Bestratingen J de Bie B.V.;H. Post;16/03/2015;Stal;28,8
+Zwaansteeg;2459 TC;145;;Strijkviertel;Ura B.V.;X. van der Heijden;07/03/2017;Boomkap;6,4
+Schoutenstraat;8034 SC;54;A;Lombok-Oost;C J vd Noort & Zn B.V.;A. van Beek;26/05/2017;Boomkap;22,4
+Gansstraat;6723 OA;137;B;Ondiep;Bavro B.V.;W. Maas;20/12/2019;Stal;35,2
+Muntsteeg;9068 MW;15;C;Bedrijvengebied Overvecht;Sinnige Bouw B.V.;H. Jansen;11/07/2016;Aanbouw;6,4
+Runnebaan;1742 RW;135;D;Strijkviertel;Bouwbedrijf Krijger BV;X. de Vos;31/05/2018;Boomkap;35,2
+Minkade;2598 BP;115;;Staatsliedenbuurt;Broens Bouwbedrijf;P. Blom;28/06/2017;Gevelrenovatie;12,8
+Wilhelmina Park;5377 FI;87;B;Geuzenwijk;Bouwservice ijmond v.o.f;G. de Haan;30/10/2015;Nieuwbouw;19,2
+Boorstraat;9861 VP;149;C;Bokkenbuurt;J.Verschoor Bouw B.V.;P. van Dam;17/07/2016;Boomkap;12,8
+Wed;5534 HE;74;;Bloemenbuurt;Folders - De Roo Bouwbedrijf;N. Hermans;26/09/2016;Nieuwbouw;38,4
+Bellamystraat;9391 JD;147;A;Tuinwijk-West;De Jong Bouwbedrijf P R;W. van Doorn;01/01/2019;Nieuwbouw;28,8
+Boterstraat;7840 BN;20;;Tuindorp-Oost;BONNET AANNEMERSBEDRIJF;P. van der Wal;29/06/2015;Nieuwbouw;6,4
+Koolstraat;8707 GM;28;;Nieuw Hoograven;F.W. Onrust Vastgoedonderhoud;I. Dijkstra;12/07/2018;Schuur;25,6
+Belthlehemscheweg;2183 FO;108;;Papendorp;Obdeijn B.V.;D. van der Meulen;06/05/2020;Schuur;25,6
+Lekstraat;6828 TR;120;;Oud Hoograven;Aannemingsbedrijf Van Driel B.V.;Y. van Vliet;11/07/2015;Schuur;35,2
+Achterstraat 2e;9787 IS;84;;Hogeweide;KEMO Vochtwering;F. van Leeuwen;19/04/2019;Stal;6,4
+Catharijnesteeg;6262 EK;86;;Transwijk-Zuid;Van Den Boom Bouwbedrijf BV;G. de Groot;18/04/2015;Boomkap;6,4
+Korte Elisabethstraat;4178 JH;82;;Oud Hoograven;Goud Aannemers- en Bouwbedrijf C M;K. Timmermans;03/04/2015;Boomkap;28,8
+Leidsche Veer;2940 ZO;52;;Hogeweide;Trienekens Bouwbedrijf B.V.;U. van der Berg;14/01/2019;Aanbouw;28,8
+Bem. Weerd WZ;8777 YR;90;D;Kanaleneiland-Zuid;ITG Bedrijven;H. de Graaf;03/04/2019;Boomkap;32
+Tuinstraat;2101 XV;50;;Transwijk-Noord;Bouw en Timmerbedrijf Bogaard;M. Mulder;14/04/2017;Verwijderen stal;22,4
+Dahliastraat;4054 NQ;95;;Nieuw Hoograven;Van Aalsburg BV;H. van de Meer;07/06/2017;Gevelrenovatie;25,6
+Schoutenstraat;1842 QB;49;;Geuzenwijk;GEBR THIJSSEN B.V.;J. van den Velde;22/04/2017;Aanbouw;6,4
+Koningslaan;3234 BA;96;B;Oud Hoograven;Somass Bouwbedrijf B.V.;R. van der Ven;08/08/2017;Aanbouw;22,4
+Fockstraat;3479 TH;46;D;Tuindorp-Oost;Wolbers Bouw- en Renovatiebedrijf;I. Martens;02/05/2017;Nieuwbouw;19,2
+Lakmoessteeg;4560 ZC;6;;Transwijk-Zuid;Bouwbedrijf Wijngaarden;V. van der Heyden;14/08/2015;Schuur;16
+Jacobskerkhof;3884 DU;121;;Bokkenbuurt;Aannemingsbedrijf Draisma B.V.;E. Hermans;10/09/2016;Gevelrenovatie;9,6
+Brandsteeg;1533 QE;91;;Papendorp;Aannemingsbedrijf J vd Windt B.V.;G. Hendriks;18/08/2016;Dakkapel;28,8
+Soendastraat;7915 JQ;1;;Hogeweide;Aannemersbedrijf Vogt B.V.;X. Blom;16/03/2020;Nieuwbouw;38,4
+Bremstraat;7989 CL;82;D;Molenbuurt;Allround Bouw Service ;T. Sanders;10/07/2016;Aanbouw;35,2
+Oranjestraat;8627 EL;93;;Tuindorp-Oost;P-bma;F. Evers;01/01/2018;Gevelrenovatie;28,8
+Bokstraat;2827 OV;8;;Oudwijk;Doensen bouwbedrijf;O. Kuiper;21/01/2020;Schuur;19,2
+Heiligeweg;3059 OF;113;A;Bokkenbuurt;Fischer Aannemingsbedrijf;S. Mol;09/03/2019;Aanbouw;22,4
+Drift;7406 CQ;106;;Bedrijventerrein Lageweide;Oude Moleman Aannemersbedrijf;M. Groen;01/05/2016;Boomkap;9,6
+Alphenplein (van);6460 GX;126;;Bloemenbuurt;Van der Heijden bouw en ontwikkeling;N. Hendriks;10/04/2018;Stal;35,2
+Nieuwe Kade;2416 RO;99;;Oud Hoograven;Bouwbedrijf van der Sloot;R. de Bruin;26/03/2015;Stal;9,6
+Lauwersteeg;5074 PF;70;;Lunetten-Noord;aannemer Marcel Start verbouwingen;E. van de Veen;28/09/2019;Boomkap;9,6
+Soendastraat;6289 JO;65;;Rivierenwijk;Driemond Bouw B.V.;B. Meyer;14/11/2018;Verwijderen stal;28,8
+A B C straat;4300 DN;99;A;Sterrenwijk;EP Bouwbedrijf;F. Jonker;04/01/2019;Schuur;25,6
+Magdalenastraat;3686 NC;136;D;Tuinwijk-West;Aannemingsmaatschappij Jellema B.V.;Z. van der Meer;09/05/2015;Nieuwbouw;19,2
+Teelingstraat;3965 UP;50;;Vogelenbuurt;Bouwbedrijf Wijngaarden;G. de Bruijn;23/07/2015;Nieuwbouw;32
+Visschersplein;9629 JX;27;;Tuinwijk-Oost;Bouwservice ijmond v.o.f;A. van der Pol;05/09/2018;Aanbouw;12,8
+Javastraat;6011 YG;20;;Tuinwijk-Oost;Van den Broek Bestratingen;G. van Beek;07/07/2018;Aanbouw;35,2
+Keisteeg;1752 SO;88;;Watervogelbuurt;Reno Projecten B.V.;L. de Lange;18/09/2018;Verwijderen stal;16
+Servetstraat;6092 IW;26;D;Lunetten-Noord;Bunnik Bouw IJsselstein;S. Hoekstra;04/01/2015;Boomkap;9,6
+Zeilsteeg;9553 NH;106;B;Tuinwijk-Oost;Van den Heuvel;E. van den Berg;27/04/2018;Dakkapel;12,8
+Daalschedijk 2e;3575 BT;98;;Hogeweide;Bestratingen J de Bie B.V.;Z. Kramer;18/06/2019;Gevelrenovatie;16
+Arkenspoort;6876 UA;47;;Schildersbuurt;Aannemersbedrijf A J H Zwart B.V.;N. van den Broek;06/01/2017;Schuur;22,4
+Blokstraat;4037 FK;121;C;Terwijde;Meijer-Oude Lashof Bouwbedrijf;S. Kuipers;01/07/2015;Schuur;22,4
+Hoogravenschedijk;2601 QV;91;;Lombok-Oost;Wijen-Bouw B.V.;L. Vink;07/07/2016;Stal;25,6
+Papaverstraat;4831 FO;116;;Oud Hoograven;Gebr De Koning B.V.;Y. Bakker;03/02/2015;Nieuwbouw;38,4
+Drieharingstraat;5462 UI;60;D;Tuindorp-Oost;Prins Bouw B.V.;K. Gerritsen;25/05/2019;Boomkap;6,4
+Hoogravenschedijk;1269 WX;38;;Bedrijvengebied Overvecht;Aannemersbedrijf De Bouwhorst;G. Meijer;08/11/2018;Nieuwbouw;16
+Valkstraat;9999 OJ;12;;Pijlsweerd-Zuid;Kessels Aannemersbedrijf;U. van Veen;03/09/2016;Gevelrenovatie;25,6
+Werfsteeg;3055 XI;94;;Kanaleneiland-Zuid;Parallelbouw B.V.;M. van den Broek;24/02/2018;Stal;25,6
+Springweg;7594 KI;27;;Vogelenbuurt;completatie bouw bv;E. de Vries;20/02/2017;Boomkap;19,2
+Kaatstraat;5407 CW;144;C;Kanaleneiland-Zuid;Vochtwering Benelux;C. Bos;09/02/2020;Nieuwbouw;35,2
+Nicolaasstraat;9309 EW;36;;Lombok-West;Wolbers Bouw- en Renovatiebedrijf;X. Bosman;01/12/2019;Aanbouw;19,2
+Sterrenburg;8291 IQ;147;;Geuzenwijk;Steigerverkoop.nl;H. Schipper;01/03/2018;Stal;25,6
+Schalkwijkstraat;9672 YZ;32;;Terwijde;Wijen Bouwbedrijf T;J. Kramer;07/02/2018;Boomkap;28,8
+Draaiweg;8987 AI;10;;Strijkviertel;Vochtwering FIX Vianen Injecteerbedrijf;H. van Beek;13/05/2016;Stal;38,4
+Bem. Weerd WZ;6963 IW;44;;Strijkviertel;Mens-Zeist Vastgoedonderhoud B.V.;S. van Veen;28/08/2016;Dakkapel;22,4
+Kanaalstraat;6583 KS;43;;Watervogelbuurt;Bouw- en Aannemingsbedrijf Van der Meer;Z. Mol;06/01/2019;Boomkap;35,2
+Zandpad;3391 MP;25;;Lombok-West;Ursem Bouwgroep;N. van Dam;03/07/2017;Verwijderen stal;32
+Paardesteeg;7649 HP;8;;Tuindorp-Oost;Vébé Bouw B.V.;K. de Boer;26/08/2017;Nieuwbouw;38,4
+Bladstraat;9080 DO;68;B;Bedrijvengebied Overvecht;Aannemersbedrijf Wessels B.V.;G. van der Velden;01/09/2018;Nieuwbouw;16
+Malakkastraat;6322 MK;50;;Schildersbuurt;AB Bouw B.V.;B. Brouwer;14/05/2016;Boomkap;6,4
+Hoogravenschedijk;5209 AL;11;;Langerak;Hekkelman Gorssel Aannemersbedrijf;I. van der Velde;29/09/2017;Verwijderen stal;22,4
+Oudegracht (Tolst.);5582 TA;65;;Tuindorp-Oost;Enschede Bouwbedrijf;J. van den Heuvel;29/04/2018;Aanbouw;38,4
+Wijnpoort;5510 OC;72;;Zuilen-Noord;Aannemingsbedrijf Vermeulen B.V.;F. de Jong;22/11/2016;Boomkap;38,4
+Braamstraat;8318 BJ;61;;Oudwijk;Heerkens van Bavel Bouw B.V.;S. Bos;20/02/2020;Verwijderen stal;6,4
+Hofsteeg;6532 KZ;130;;Transwijk-Zuid;Bouwbedrijf Lok;H. de Vos;24/07/2016;Dakkapel;6,4
+Soendastraat;9899 WD;30;;Schildersbuurt;Ippel Civiele Betonbouw BV;A. Jonker;26/11/2015;Aanbouw;35,2
+Kerkweg;2541 LZ;53;;Pijlsweerd-Zuid;REBBouw;O. Post;16/10/2019;Aanbouw;16
+Kruitstraat;6215 JG;107;;Langerak;Installatie Service Flevoland;B. Kuiper;02/07/2019;Boomkap;9,6
+Hopstraat;2138 DN;68;;Pijlsweerd-Zuid;bmd bouwenmetdaadkracht;W. van de Velden;11/09/2017;Schuur;35,2
+Meidoornstraat;7330 XV;4;;Tuindorp-Oost;Hemmen Bouw C.V.;O. Martens;01/09/2018;Schuur;38,4
+Bekkerstraat;9583 UH;109;D;Transwijk-Zuid;De Haas Bouw en Aannemingsbedrijfj J;S. de Leeuw;05/06/2016;Verwijderen stal;9,6
+Flieruilensteeg;6019 XB;46;;Tuinwijk-West;Wijen-Bouw B.V.;Y. Schipper;07/12/2016;Verwijderen stal;16
+Ravensteeg;9788 FJ;113;;Kanaleneiland-Noord;Bouwbedrijf Postma Bergharen;M. van den Heuvel;04/02/2020;Dakkapel;19,2
+Croeselaan;8679 FE;90;;Lunetten-Noord;VDM Woningen;Y. Meyer;28/06/2015;Gevelrenovatie;22,4
+Pausdam;5948 TD;20;;Terwijde;Bouwbedrijf Ted Groot B.V.;X. Koning;25/05/2016;Aanbouw;35,2
+Pieter Bothstraat;9802 FR;129;D;Schildersbuurt;Trienekens Bouwbedrijf B.V.;A. de Jong;30/04/2017;Boomkap;28,8
+Lange Jansstraat;8235 RA;8;;Lunetten-Zuid;ThunnissenOnderhoud bv;V. Willems;03/02/2018;Verwijderen stal;22,4
+Kromme Rijn;7689 MZ;133;;Sterrenwijk;Rooy Ehv.BV Bouwbedrijf E.van;E. Sanders;29/03/2019;Schuur;16
+Jacobsgasthuissteeg;5049 XF;16;;Zuilen-Noord;Faberbouw;T. van den Bosch;21/09/2018;Schuur;16
+Heerenhofje;6949 LJ;7;C;Vogelenbuurt;Steta Bouw en Interieur op maat bv;B. Verhoeven;17/07/2017;Nieuwbouw;6,4
+Valkstraat;4369 XU;136;C;Tuindorp-Oost;ELBERSE BOUWBEDRIJF B.V.;D. van der Ven;15/01/2018;Schuur;28,8
+Renstraat;5482 IX;120;;Papendorp;Bouwbedrijf Th. van Weert b.v.;W. de Bruijn;30/01/2015;Boomkap;22,4
+Museumlaan;7623 DN;130;;Nieuw Hoograven;Albert Martinus Aannemingsbedrijf;H. van Wijk;16/01/2015;Aanbouw;28,8
+Lauwerecht;5984 XI;137;B;Tuinwijk-Oost;Gebr. Backx B.V.;U. de Leeuw;10/10/2015;Nieuwbouw;6,4
+Jan Houtmanstraat;1112 QB;63;;Buurtnaam;Bouwbedrijf Ponjé B.V.;B. van Veen;13/04/2020;Nieuwbouw;19,2
+Hoogstraat;4294 OJ;76;;Sterrenwijk;Norbert Schwarte Bau B.V.;Q. van Leeuwen;06/03/2019;Schuur;22,4
+Rozenhofje;7441 ZF;67;;Staatsliedenbuurt;Aannemingsbedrijf Project Rotterdam B.V.;R. Jansen;26/03/2015;Schuur;25,6
+Merwedekade;7937 LV;96;;Lunetten-Zuid;B.A.B.S. afbouw;V. de Bruijn;02/06/2019;Schuur;35,2
+Plompetorenbrug;7194 PW;39;;Hogeweide;Koers Groep BV, vestiging Leiden;H. de Bruijn;06/04/2020;Schuur;22,4
+Joh. Camphuysstraat;5710 TV;40;;Oud Hoograven;Aannemersbedrijf C. van Dodewaard B.V.;C. van Doorn;08/02/2020;Schuur;22,4
+Laurens Reaalstraat;7955 BN;46;;Lunetten-Noord;van Adrichem Aannemersbedrijf Mart;N. van de Berg;10/03/2020;Boomkap;28,8
+Jansdam;9095 UZ;112;D;Rivierenwijk;P-bma;G. Jacobs;09/03/2016;Gevelrenovatie;28,8
+Gruttersdijk;8425 UF;99;;Pijlsweerd-Zuid;Schipper&Paaimans Bouwgroep;H. de Boer;26/12/2016;Aanbouw;19,2
+Alphenstraat (van);9502 ZP;148;;Staatsliedenbuurt;Bouwbedrijf Visser BV;K. van der Velde;04/08/2017;Verwijderen stal;19,2
+Domplein;5919 KE;80;D;Tuinwijk-West;Archangel Bouw B.V.;X. Koster;18/05/2020;Boomkap;6,4
+Nathanaëlspoort;7914 BP;64;;Geuzenwijk;Van Berkel Aannemers Leimuiden BV;Z. Vermeulen;02/10/2017;Dakkapel;22,4
+Lakmoessteeg;2010 BG;43;;Buurtnaam;E de Boer & Zn Aannemersbedrijf B.V.;V. van der Laan;10/08/2017;Verwijderen stal;9,6
+Schoolplein;1839 DQ;61;;Bokkenbuurt;Bouwbureau Sjaak Fieman;V. de Jonge;07/11/2017;Gevelrenovatie;28,8
+Lange Jansstraat;2819 ZV;104;;Pijlsweerd-Zuid;De BEER bouwbedrijf;G. Hermans;14/10/2015;Nieuwbouw;12,8
+Runnebaan;9531 VE;105;A;Transwijk-Zuid;Broers Bouwbedrijf;Z. van den Berg;16/05/2020;Stal;6,4
+Hardebollenstraat;8908 WM;68;D;Dichterswijk;ASK-Romein B.V.;F. van der Meer;18/08/2019;Gevelrenovatie;35,2
+Manenburg;2105 BY;33;;Watervogelbuurt;Greven Bouwonderneming;Q. Timmermans;26/08/2017;Gevelrenovatie;35,2
+Jagerskade;4056 CQ;22;;Hogeweide;Warmes Aannemersbedrijf B.V.;L. van den Heuvel;02/05/2017;Schuur;28,8
+Merwedekade;5680 QG;65;;Hogeweide;Klussenbedrijf Veran;O. van den Broek;13/02/2015;Gevelrenovatie;16
+Plompetorenbrug;9235 LN;45;A;Staatsliedenbuurt;completatie bouw bv;Z. Bosch;17/01/2015;Schuur;35,2
+Putsteeg;9934 DJ;119;;Transwijk-Zuid;Bouwbedrijf Geers B.V.;J. van der Wal;14/02/2018;Boomkap;25,6
+Damstraat;7778 TO;124;;Vogelenbuurt;Hemmen Bouw C.V.;J. Koster;13/05/2016;Boomkap;35,2
+Wijckstraat (van);4376 VX;95;;Oud Hoograven;PHB Deventer B.V.;V. Brouwer;02/04/2016;Boomkap;35,2
+Doornstraat;5361 GB;50;;Kanaleneiland-Zuid;Davelaar Bouwbedrijf B.V.;F. van der Berg;15/07/2015;Verwijderen stal;16
+Jodenrijtje;8757 CJ;66;;Transwijk-Zuid;UDB Bouwservice;P. Visser;13/09/2018;Gevelrenovatie;12,8
+Lombardpoort;1335 JZ;81;;Tuinwijk-Oost;Sanders afbouw VOF;I. Schouten;27/11/2018;Gevelrenovatie;9,6
+Rijndijk;9013 NH;18;;Schildersbuurt;Vios Bouw en Onderhoud Amsterdam B.V.;I. de Graaf;01/11/2015;Stal;38,4
+Amaliadwarsstraat;2458 LS;65;D;Rivierenwijk;Vergeer Reeuwijk B.V.;V. Sanders;13/07/2017;Gevelrenovatie;19,2
+Jacobskerkstraat;3846 TT;61;D;Lunetten-Zuid;JK Bouwservice;P. van Dongen;20/12/2019;Boomkap;38,4
+Kruisdwarsstraat;8818 OG;5;A;Tuinwijk-West;Bouwbedrijf van Grootveld B.V.;Q. Peeters;01/05/2016;Boomkap;9,6
+Zilverbergpoort;8986 QH;54;;Tweede Daalsebuurt en omgeving;Vochtwering FIX Vianen Injecteerbedrijf;J. Schouten;07/12/2018;Verwijderen stal;19,2
+Leliestraat;1272 KG;21;;Zuilen-Noord;Reimerswaal Aannemingsbedrijf;L. Evers;12/12/2017;Verwijderen stal;12,8
+Kruisstraat;5874 XQ;84;;Sterrenwijk;Bakels en Ouwerkerk Bouwgroep;B. Kramer;03/07/2015;Nieuwbouw;12,8
+Boothstraat;3656 GZ;109;C;Pijlsweerd-Noord;Koers Bouw;E. Willems;18/05/2015;Schuur;22,4
+Schaapstraat;1644 XT;3;D;Geuzenwijk;Aannemersbedrijf - Renova Twente Bouw;E. Koster;26/10/2019;Dakkapel;25,6
+Beekstraat;8295 AY;135;;Watervogelbuurt;Aannemingsbedrijf Tibben Marienheem BV;F. Molenaar;30/04/2017;Stal;32
+Minkade;5261 BF;91;C;Lunetten-Noord;Aannemersbedrijf van der Woude bv;B. Willemsen;21/06/2015;Stal;22,4
+Bankastraat;7101 FH;26;A;Bedrijventerrein Lageweide;Bouwservice Correct Limburg;R. Hoekstra;13/04/2016;Aanbouw;28,8
+Grietstraat;6674 CG;31;B;Pijlsweerd-Noord;Bouwpartners B.V.;S. Driessen;13/02/2015;Verwijderen stal;38,4
+Jacobspoort;7806 JY;69;D;Buurtnaam;H de Boer B.V.;P. van de Ven;18/03/2018;Verwijderen stal;12,8
+Lange Koestraat;4381 RF;62;A;Kanaleneiland-Zuid;T yankah TimmerBedrijf;P. van den Velde;02/03/2020;Aanbouw;6,4
+Stationsplein;7494 WL;38;B;Buurtnaam;Heijneman Bouw B.V.;L. Post;08/04/2015;Schuur;25,6
+Doornboomstraat;1970 DQ;104;;Transwijk-Zuid;Kessels Aannemersbedrijf;M. de Haan;08/01/2016;Gevelrenovatie;16
+Domtoren;8743 KE;52;;Lombok-West;E de Boer & Zn Aannemersbedrijf B.V.;H. Koster;04/08/2018;Verwijderen stal;9,6
+Kwakkeldijk;1419 SW;107;;Molenbuurt;Aannemersbedrijf A J H Zwart B.V.;J. Willemsen;30/01/2020;Nieuwbouw;6,4
+Floris Heermalestraat;4626 TO;1;;Bokkenbuurt;Aannemersbedrijf de Bouwmeesters.net;Q. Vermeulen;16/05/2016;Dakkapel;25,6
+Mariaplaats;7278 MV;35;;Watervogelbuurt;Total Concept Builders;Y. van de Pol;30/01/2017;Boomkap;28,8
+Violenstraat;8367 ZD;87;C;Kanaleneiland-Noord;Aannemingsmaatschappij Jellema B.V.;J. Veenstra;17/01/2017;Stal;22,4
+Hofje van Zessen;3345 YG;118;;Lunetten-Zuid;Oosterbroek Cor Bouwbedrijf B.V.;F. de Bruin;24/01/2019;Verwijderen stal;32
+Roodepoort;5090 WZ;10;D;Geuzenwijk;Beens Groep Aannemer Weg en Waterbouw;Y. van der Heyden;23/12/2018;Aanbouw;16
+Hoog Glagenweerd;9150 EG;111;;Papendorp;Pellikaan Bouw;Z. de Boer;26/07/2018;Dakkapel;32
+Westravenstraat;1263 BV;106;;Staatsliedenbuurt;Senso Gietvloeren Rotterdam;B. Kramer;17/09/2016;Aanbouw;16
+Leidsche Weg;8190 JR;63;;Molenbuurt;Klussenbedrijf Ko Mes;L. de Jong;29/01/2019;Schuur;22,4
+Kruisweg;6683 OT;51;;Oudwijk;Aannemersbedrijf Lagerberg BV;Z. Jonker;07/03/2018;Boomkap;38,4
+Leistraat;5844 FL;27;;Bloemenbuurt;Aannemingsbedrijf Tibben Marienheem BV;C. Driessen;14/03/2016;Aanbouw;9,6
+Manenburg;5878 MO;99;;Lombok-Oost;H de Boer B.V.;R. Postma;09/09/2018;Aanbouw;32
+Jan Pietersz. Koenstraat;1858 WT;32;;Watervogelbuurt;P-bma;L. Timmermans;25/02/2017;Verwijderen stal;28,8
+Achterstraat 3e;7862 XT;77;B;Dichterswijk;Aannemersbedrijf Braak Velsen B.V.;G. Huisman;29/05/2020;Aanbouw;38,4
+Korte Rietsteeg;7496 AG;85;A;Nieuw Hoograven;Wevers en Zn Aannemersbedrijf Fa G;R. Boer;13/11/2017;Nieuwbouw;38,4
+Kruisweg;1215 SA;88;;Langerak;Schnieders J;D. Smit;14/06/2018;Stal;25,6
+Maliestraat;7641 LW;89;;Bokkenbuurt;PHB Deventer B.V.;G. Molenaar;19/07/2016;Gevelrenovatie;9,6
+Militaire Weg;2774 UZ;120;;Oud Hoograven;Midevo Almere;S. Smit;12/03/2015;Nieuwbouw;9,6
