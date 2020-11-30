@@ -4,7 +4,7 @@ dataFile = open("./GB.csv", "r")
 reader = csv.DictReader(dataFile, delimiter=';')
 data = list(reader)
 
-data_sorted = sorted(data, key=lambda row: row['nb_hoogte'], reverse=True)
+data_sorted = sorted(data, key=lambda row: float(row['nb_hoogte']), reverse=True)
 
 
 print("------------------")
