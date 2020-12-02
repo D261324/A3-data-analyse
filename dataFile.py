@@ -4,16 +4,17 @@ reader = csv.DictReader(dataFile, delimiter=";")
 data = list(reader)
 # hier onder staan de variable
 totalHeight = 0.0
-licenceCount = 0
-numLicence = len(data)
-# avargeHeight = totalHeight / licenceCount
+totalLicenses = len(data)
+averageHeight = 0
+# avargeHeight = totalHeight / licenseCount
 
 for line in data:
-    print(f"hoogte van aangevraagde bouwvergunning: {line['nb_hoogte']}")
-    licenceCount += 1
     totalHeight += float(line['nb_hoogte'])
 
-print(f"totale hoogte afgegeven licence: {licenceCount}")
-print(f"totale hoogte van afgegeven vergunningen: {totalHeight}")
+averageHeight = totalHeight / totalLicenses
+
+print(f"Aantal afgegeven vergunningen: {totalLicenses}")
+print(f"Totale hoogte van afgegeven vergunningen: {round(totalHeight, 1)} meter")
+print(f"Gemiddelde hoogte van alle gebouwen: {round(averageHeight, 2)} meter")
 
 dataFile.close()
