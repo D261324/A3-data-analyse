@@ -15,6 +15,8 @@ topTen = []
 permitsAfterDateString = ""
 permitsInNeighborhoodString = ""
 
+
+# !!!!hier onder komt het menu/ hele programma te staan met alle loops en statements!!!!
 running = True
 while running:    
    os.system("cls")
@@ -54,7 +56,9 @@ while running:
       for i in range(1, 11):
          item = permits_sorted[i]
          topTen.append(f"{i} | {item['Adres']} {item['Huisnummer']} is {item['nb_hoogte']} meter hoog")
-         print(topTen[i-1])
+         print(f"{topTen[i-1]}")
+      
+      # print("\n")
    #  End Press 2
 
    if choice == "3" or choice == "w":
@@ -68,7 +72,7 @@ while running:
          if (datetime.strptime(permit['Datum_aanvraag'], '%d-%m-%Y') >= datetime_object):
             permitsAfterDate += 1
       
-      permitsAfterDateString = (f"Er zijn {permitsAfterDate} vergunningen afgegeven na {datetime_str}\n")
+      permitsAfterDateString = (f"Er zijn {permitsAfterDate} vergunningen afgegeven na {datetime_str}")
       print(permitsAfterDateString)
    #  End Press 3
 
@@ -86,7 +90,7 @@ while running:
          permitsInNeighborhood = "geen"
 
       os.system("cls")
-      permitsInNeighborhoodString = (f"Er zijn {permitsInNeighborhood} vergunningen afgegeven voor gebouwen in {userNeighborhood.capitalize()}.\n")
+      permitsInNeighborhoodString = (f"Er zijn {permitsInNeighborhood} vergunningen afgegeven voor gebouwen in {userNeighborhood.capitalize()}.")
       print(permitsInNeighborhoodString)
       #  End Press 4
 
@@ -95,24 +99,20 @@ while running:
       now = now.strftime("%m-%d-%Y %H:%M:%S")
       os.system("cls")
       outInfoFile.write(f"Data gegenereerd op {now}\n")
-      outInfoFile.write(f"1. {averageHeight}\n")
+      outInfoFile.write(f"1. {averageHeightString}\n")
       outInfoFile.write(f"2. Hoogste gebouwen:\n")
 
       for item in topTen:
          outInfoFile.write(f"\t{item}\n")
 
-      outInfoFile.write(f"3. {permitsAfterDate}\n")
-      outInfoFile.write(f"4. {permitsInNeighborhood}\n")
-      print("Informatie opgeslagen in outInfo.txt")
+      outInfoFile.write(f"3. {permitsAfterDateString}\n")
+      outInfoFile.write(f"4. {permitsInNeighborhoodString}\n")
+      print("Typ 'X' om te stoppen en de informatie naar het bestand te schrijven.")
    
    if choice == "x":
       exit()
 
-   else:
-      print("Klopt niet")
-      continue
-
-   stop = input("Druk op enter om door te gaan of typ 'X' om te stoppen")
+   stop = input("\nDruk op enter om door te gaan of typ 'X' om te stoppen")
    if(stop == "X" or stop == "x"):
       running = False
 
