@@ -96,9 +96,9 @@ while running:
 
    if choice == "w":
       now = datetime.now()
-      now = now.strftime("%m-%d-%Y %H:%M:%S")
+      now = now.strftime("%d-%m-%Y %H:%M:%S")
       os.system("cls")
-      outInfoFile.write(f"Data gegenereerd op {now}\n")
+      outInfoFile.write(f"Data gegenereerd op {now}:\n")
       outInfoFile.write(f"1. {averageHeightString}\n")
       outInfoFile.write(f"2. Hoogste gebouwen:\n")
 
