@@ -14,11 +14,12 @@ averageHeightString = ""
 topTen = []
 permitsAfterDateString = ""
 permitsInNeighborhoodString = ""
+inputPassedCheck = None
 
 
 # !!!!hier onder komt het menu/ hele programma te staan met alle loops en statements!!!!
 running = True
-while running:    
+while running:
    os.system("cls")
    print("1. Gemiddelde hoogte van afgegeven vergunningen")
    print("2. Top 10 hoogste gebouwen")
@@ -27,9 +28,15 @@ while running:
    print("W. Alle info naar bestand")
    print("X. Afsluiten")
 
+   if inputPassedCheck == 0:
+      print("\nFunctie niet gevonden.")
+   
    choice = input("\nMaak uw keuze: ").lower()
+   
+   inputPassedCheck = 0
     
    if choice == "1" or choice == "w":
+      inputPassedCheck = 1
       os.system("cls")
    #  Press 1:
       totalPermits = len(permits)
@@ -40,7 +47,7 @@ while running:
          totalHeight += float(permit['nb_hoogte'])
 
       averageHeight = totalHeight / totalPermits
-      averageHeightString = (f"Gemiddelde hoogte van alle gebouwen: {round(averageHeight, 2)} meter")
+      averageHeightString = (f"Gemiddelde hoogte van alle gebouwen: {round(averageHeight, 2)} meter.")
 
       print(f"Aantal afgegeven vergunningen: {totalPermits}")
       print(f"Totale hoogte van afgegeven vergunningen: {round(totalHeight, 1)} meter")
@@ -48,6 +55,7 @@ while running:
    #  End Press 1
 
    if choice == "2" or choice == "w":
+      inputPassedCheck = 1
       topTen = []
       os.system("cls")
    #  Press 2:
@@ -62,6 +70,7 @@ while running:
    #  End Press 2
 
    if choice == "3" or choice == "w":
+      inputPassedCheck = 1
       os.system("cls")
    #  Press 3
       datetime_str = '1-1-2020'
@@ -72,11 +81,12 @@ while running:
          if (datetime.strptime(permit['Datum_aanvraag'], '%d-%m-%Y') >= datetime_object):
             permitsAfterDate += 1
       
-      permitsAfterDateString = (f"Er zijn {permitsAfterDate} vergunningen afgegeven na {datetime_str}")
+      permitsAfterDateString = (f"Er zijn {permitsAfterDate} vergunningen afgegeven na {datetime_str}.")
       print(permitsAfterDateString)
    #  End Press 3
 
    if choice == "4" or choice == "w":
+      inputPassedCheck = 1
       os.system('cls')
    #  Press 4
       userNeighborhood = input("Vul een buurt in: ").lower()
@@ -95,6 +105,7 @@ while running:
       #  End Press 4
 
    if choice == "w":
+      inputPassedCheck = 1
       now = datetime.now()
       now = now.strftime("%d-%m-%Y %H:%M:%S")
       os.system("cls")
@@ -107,14 +118,21 @@ while running:
 
       outInfoFile.write(f"3. {permitsAfterDateString}\n")
       outInfoFile.write(f"4. {permitsInNeighborhoodString}\n")
-      print("Typ 'X' om te stoppen en de informatie naar het bestand te schrijven.")
+      outInfoFile.write(f"----------------------------------------\n")
+      print("Gegevens worden naar het bestand geschreven zodra u het programma afsluit (X).")
    
    if choice == "x":
+      inputPassedCheck = 1
       exit()
+   
+   if inputPassedCheck == 0:
+      print("Functie niet gevonden.")
+      continue
+   # inputPassedCheck = 0
 
-   stop = input("\nDruk op enter om door te gaan of typ 'X' om te stoppen")
+   stop = input("\nDruk op enter om door te gaan of typ 'X' om te stoppen: ")
    if(stop == "X" or stop == "x"):
       running = False
 
-outInfoFile.close
+outInfoFile.close()
 dataFile.close()
