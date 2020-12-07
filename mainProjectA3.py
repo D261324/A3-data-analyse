@@ -121,11 +121,6 @@ while running:
       outInfoFile.write(f"----------------------------------------\n")
       print("Gegevens worden naar het bestand geschreven zodra u het programma afsluit (X).")
    
-   # if choice == "x":
-   #    inputPassedCheck = 1
-   #    print("Tot de volgende keer!")
-   #    running = False
-   #    exit()
    if choice:
       if choice != "x":
          choice = input("\nDruk op enter om door te gaan of typ 'X' om te stoppen: ").lower()
