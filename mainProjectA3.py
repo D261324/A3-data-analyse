@@ -121,7 +121,14 @@ while running:
       outInfoFile.write(f"----------------------------------------\n")
       print("Gegevens worden naar het bestand geschreven zodra u het programma afsluit (X).")
    
-   if choice:
+   
+   if inputPassedCheck != 1:
+      print("Functie niet gevonden.")
+      continue
+         
+   # inputPassedCheck = 0
+
+   if choice or inputPassedCheck == 1:
       if choice != "x":
          choice = input("\nDruk op enter om door te gaan of typ 'X' om te stoppen: ").lower()
       if choice == "x":
@@ -131,13 +138,6 @@ while running:
          running = False
          exit()
          continue
-
-
-   if inputPassedCheck == 0:
-      print("Functie niet gevonden.")
-      continue
-   # inputPassedCheck = 0
-
 
 outInfoFile.close()
 dataFile.close()
