@@ -121,18 +121,28 @@ while running:
       outInfoFile.write(f"----------------------------------------\n")
       print("Gegevens worden naar het bestand geschreven zodra u het programma afsluit (X).")
    
-   if choice == "x":
-      inputPassedCheck = 1
-      exit()
-   
+   # if choice == "x":
+   #    inputPassedCheck = 1
+   #    print("Tot de volgende keer!")
+   #    running = False
+   #    exit()
+   if choice:
+      if choice != "x":
+         choice = input("\nDruk op enter om door te gaan of typ 'X' om te stoppen: ").lower()
+      if choice == "x":
+         os.system("cls")
+         inputPassedCheck = 1
+         print("Tot de volgende keer!")
+         running = False
+         exit()
+         continue
+
+
    if inputPassedCheck == 0:
       print("Functie niet gevonden.")
       continue
    # inputPassedCheck = 0
 
-   stop = input("\nDruk op enter om door te gaan of typ 'X' om te stoppen: ")
-   if(stop == "X" or stop == "x"):
-      running = False
 
 outInfoFile.close()
 dataFile.close()
