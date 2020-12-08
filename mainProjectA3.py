@@ -133,7 +133,7 @@ while running:
       print("Functie niet gevonden.")
       continue
 
-   choice = input("\nDruk op enter om door te gaan of typ 'X' om te stoppen: ").lower()
+   choice = input("\nDruk op enter om door te gaan of type 'X' om te stoppen: ").lower()
    if choice == "x":
       os.system("cls")
       inputPassedCheck = 1
