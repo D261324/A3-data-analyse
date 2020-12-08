@@ -34,6 +34,13 @@ while running:
    choice = input("\nMaak uw keuze: ").lower()
    
    inputPassedCheck = 0
+
+   if choice == "x":
+            os.system("cls")
+            inputPassedCheck = 1
+            print("Tot de volgende keer!")
+            running = False
+            exit()
     
    if choice == "1" or choice == "w":
       inputPassedCheck = 1
@@ -121,23 +128,20 @@ while running:
       outInfoFile.write(f"----------------------------------------\n")
       print("Gegevens worden naar het bestand geschreven zodra u het programma afsluit (X).")
    
-   
-   if inputPassedCheck != 1:
+
+   if inputPassedCheck != 1 and choice != "x":
       print("Functie niet gevonden.")
       continue
-         
-   # inputPassedCheck = 0
 
-   if choice or inputPassedCheck == 1:
-      if choice != "x":
-         choice = input("\nDruk op enter om door te gaan of typ 'X' om te stoppen: ").lower()
-      if choice == "x":
-         os.system("cls")
-         inputPassedCheck = 1
-         print("Tot de volgende keer!")
-         running = False
-         exit()
-         continue
+   choice = input("\nDruk op enter om door te gaan of typ 'X' om te stoppen: ").lower()
+   if choice == "x":
+      os.system("cls")
+      inputPassedCheck = 1
+      print("Tot de volgende keer!")
+      running = False
+      exit()
+      continue
+
 
 outInfoFile.close()
 dataFile.close()
